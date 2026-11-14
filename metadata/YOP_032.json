@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_032",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "“보아하니 방어구가 세 벌이나 필요하실 것 같군요. 한 벌은 지금 입고, 한 벌은 여분으로 보관하고, 한 벌은 전시에 착용하시면 딱 좋겠네요!”",
+        "portrait": "HS21-250.tif:b290071565d743a4823ac10c51d337dd",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/YOP_032.png"
+      }
+    }
+  }
+}

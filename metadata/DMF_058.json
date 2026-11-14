@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_058",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "달이 태양과 아제로스 사이에 위치합니다.",
+        "portrait": "HS21-070.tif:e6deae18e1d84e3d91826073171fc11a",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 251,
+            "name": "게임 태그 251",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ],
+        "art": "art/DMF_058.png"
+      }
+    }
+  }
+}

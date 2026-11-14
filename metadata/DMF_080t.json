@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_080t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-098.tif:f6deef7b855c4e59a702698864d12fc1",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 8
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 8
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          },
+          {
+            "id": 1551,
+            "name": "타락한 카드",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_080t.png"
+      }
+    }
+  }
+}

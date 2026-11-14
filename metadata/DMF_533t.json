@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_533t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-140.tif:639c12874a4a4b2aa7bf1f73fc595cfb",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 15
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 0
+          },
+          {
+            "id": 1965,
+            "name": "임프",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_533t.png"
+      }
+    }
+  }
+}

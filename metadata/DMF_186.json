@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_186",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "상서로운 영혼이지만 하는 짓은 영 상스럽기만 합니다.",
+        "portrait": "HS21-148.tif:43dfe555e5fc4866a39ae0b7b6fa0aac",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 61668
+          },
+          {
+            "id": 1524,
+            "name": "타락",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          },
+          {
+            "id": 1719,
+            "name": "변신 원본 시각 효과",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_186.png"
+      }
+    }
+  }
+}

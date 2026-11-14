@@ -1,0 +1,42 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_514t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-080.tif:a7e7f42ded7b4f15b3fb23773f781712",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 1077,
+            "name": "뽑을 때 시전",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_514t.png"
+      }
+    }
+  }
+}

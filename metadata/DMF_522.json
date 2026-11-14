@@ -1,0 +1,52 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_522",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "마나 인하) 지뢰 5개 강제 나눔 합니다 (새 것)",
+        "portrait": "HS21-132.tif:3faf252df02640cb8455cd661878c1a0",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 349,
+            "name": "게임 태그 349",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_522.png"
+      }
+    }
+  }
+}

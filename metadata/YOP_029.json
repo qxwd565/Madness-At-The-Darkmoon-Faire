@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_029",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "크기 조절 주머니 속 크기 조절 주머니 크기를 조절하는 모습이 상상이나 되십니까?",
+        "portrait": "HS21-286_S.tif:e9992324fd924c15970b97c37b0e5260",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 6
+          },
+          {
+            "id": 1342,
+            "name": "발견 시각 효과",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/YOP_029.png"
+      }
+    }
+  }
+}

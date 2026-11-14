@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_001",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "\"운전할 땐 책 읽지 마세요.\"",
+        "portrait": "HS21-269.tif:985996f77bf3419dbc60b47364e0b883",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 1333,
+            "name": "추방자",
+            "value": 1
+          },
+          {
+            "id": 1650,
+            "name": "연구 발견 시각 효과",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/YOP_001.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_085",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "돌격 준비 완료!",
+        "portrait": "HS21-032.tif:9ca78d41c9134e728e469c7cea12536d",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 8
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 17
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_085.png"
+      }
+    }
+  }
+}

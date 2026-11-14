@@ -1,0 +1,52 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_119",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "ASMR 방송을 해볼까 하는데, 주변에서 모두 뜯어말린다고 합니다.",
+        "portrait": "HS21-138.tif:078ecbb8cbd64c5ab3b860786b3fee8a",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ],
+        "art": "art/DMF_119.png"
+      }
+    }
+  }
+}

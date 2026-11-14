@@ -8,34 +8,6 @@
     "collectible": false,
     "cost": 0,
     "text": "이번 게임에서 내가 주문을 시전한만큼 무작위 주문을 시전합니다. <i>(대상은 무작위로 선택)</i>",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS21-184.tif:367f5135f1e540ca807a418d93f17e92",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 684,
-        "name": "비용 숨김",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_004t1.png"
+    "classes": []
   }
 }

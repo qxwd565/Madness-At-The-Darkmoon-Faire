@@ -8,34 +8,6 @@
     "collectible": false,
     "cost": 0,
     "text": "하수인들이 이쪽으로 돕니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS16-433A_S.tif:60c881222e162a44ca9be7ffad9a3ffb",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 684,
-        "name": "비용 숨김",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_074a.png"
+    "classes": []
   }
 }

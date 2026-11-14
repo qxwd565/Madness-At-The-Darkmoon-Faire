@@ -11,74 +11,10 @@
     "text": "<b>속공</b><br></br><b>질풍</b>",
     "attack": 1,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"니들이 꽃게 맛을 알어?\"",
-    "spellSchool": "",
-    "portrait": "HS21-249.tif:66b1c48526f94a5584d0c9591b29d19c",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 189,
-        "name": "질풍",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
     "races": [
       "MURLOC"
     ],
     "race": "멀록",
-    "classes": [],
-    "art": "art/YOP_031.png"
+    "classes": []
   }
 }

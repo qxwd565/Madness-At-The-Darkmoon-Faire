@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_012",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "죽은 자가 무슨 할 말이 있겠습니까?",
+        "portrait": "HS21-252.tif:caf27864a8e648049771ad22e57562a1",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 362,
+            "name": "지속 효과",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/YOP_012.png"
+      }
+    }
+  }
+}

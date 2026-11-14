@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_061",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "그 나무에 그 사과라더니, 옛말 틀린 거 하나도 없습니다.",
+        "portrait": "HS21-064.tif:21900dd23eeb42009d3d89d5c1c4f38a",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 443,
+            "name": "선택",
+            "value": 1
+          },
+          {
+            "id": 1524,
+            "name": "타락",
+            "value": 1
+          },
+          {
+            "id": 1719,
+            "name": "변신 원본 시각 효과",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_061.png"
+      }
+    }
+  }
+}

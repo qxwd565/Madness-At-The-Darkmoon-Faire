@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_189",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "명심하세요. 입을 여는 순간 몰입이 깨집니다.",
+        "portrait": "HS21-090.tif:08861e2debe64c60b1a0136dcce71ad5",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_189.png"
+      }
+    }
+  }
+}

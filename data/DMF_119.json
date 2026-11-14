@@ -9,49 +9,7 @@
     "collectible": true,
     "cost": 1,
     "text": "비용이 가장 낮은 카드를 버립니다.<br></br>내 하수인들에게 +1/+1을 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "ASMR 방송을 해볼까 하는데, 주변에서 모두 뜯어말린다고 합니다.",
     "spellSchool": "SHADOW",
-    "portrait": "HS21-138.tif:078ecbb8cbd64c5ab3b860786b3fee8a",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_119.png"
+    "classes": []
   }
 }

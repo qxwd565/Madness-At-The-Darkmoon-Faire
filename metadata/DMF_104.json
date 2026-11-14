@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_104",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "대체 왜 다들 불꽃 놀이에 열광하는지 모르겠습니다. 세상은 넓고 불붙이면 터지는 건 많은데 말이에요.",
+        "portrait": "HS21-128.tif:0463d3544abb430389cee864e7a4b92e",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 8
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 61695
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          }
+        ],
+        "art": "art/DMF_104.png"
+      }
+    }
+  }
+}

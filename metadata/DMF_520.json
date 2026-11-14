@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_520",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "여러분이 기다리던 순간이 왔어요!",
+        "portrait": "HS21-172.tif:32b12957e9794c289ecf25df9da43a11",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_520.png"
+      }
+    }
+  }
+}

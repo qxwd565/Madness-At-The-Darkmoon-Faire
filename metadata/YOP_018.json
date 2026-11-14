@@ -1,0 +1,92 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_018",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "아버지에게 기술을 하나 전수받았죠. 바로 복사품 제작입니다.",
+        "portrait": "HS21-233.tif:d358adbcea3741a2b7753999a0f5b209",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 72
+          },
+          {
+            "id": 1342,
+            "name": "발견 시각 효과",
+            "value": 1
+          },
+          {
+            "id": 1427,
+            "name": "주문폭주",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/YOP_018.png"
+      }
+    }
+  }
+}

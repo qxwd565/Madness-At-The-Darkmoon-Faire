@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 3,
     "text": "이번 턴에 내 영웅에게 공격력 +4와 <b>면역</b>을 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "악마사냥꾼의 핫도그를 훔쳤다면 지구 끝까지 도망칠 준비를 해야 합니다.",
-    "spellSchool": "",
-    "portrait": "HS21-115.tif:7c66d476fef04dc6aaef0a334935643f",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 240,
-        "name": "면역",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_219.png"
+    "classes": []
   }
 }

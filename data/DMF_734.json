@@ -11,67 +11,6 @@
     "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br>무작위 아군 하수인에게<br></br>\"<b>죽음의 메아리:</b> 잿빛가지를 소환함\" 능력을 부여합니다.",
     "attack": 4,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "제가 다음 턴에 죽더라도 오늘 한 그루의 나무를 심겠습니다.",
-    "spellSchool": "",
-    "portrait": "HS21-166.tif:edcbff4d6f484db4a87240a2f3abdc7d",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_734.png"
+    "classes": []
   }
 }

@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_061b",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-066.tif:82104bdba40a4e56bd7fc5e79e2bf980",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 0
+          }
+        ],
+        "art": "art/DMF_061b.png"
+      }
+    }
+  }
+}

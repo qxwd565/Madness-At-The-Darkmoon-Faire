@@ -11,64 +11,10 @@
     "text": "<b>도발</b><br></br><i>모든 종족값을<br></br>가집니다.</i>",
     "attack": 4,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "어떤 동물부터 쓰다듬어야할지 모르시는 분들을 위해 맞춤형 야수가 찾아갑니다.",
-    "spellSchool": "",
-    "portrait": "HS21-085.tif:c118d5144ff540d7ad69106b806ac701",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 26
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "ALL"
     ],
     "race": "모든 종족",
-    "classes": [],
-    "art": "art/DMF_532.png"
+    "classes": []
   }
 }

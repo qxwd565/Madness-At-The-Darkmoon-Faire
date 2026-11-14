@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_707",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "어떻게 모자에서 데스윙을 꺼낼 수 있냐고요? 그건 데스형도 모른다고 하네요.",
+        "portrait": "HS21-052.tif:1db6b40cd64a4ace90a81d5db59a6c2e",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_707.png"
+      }
+    }
+  }
+}

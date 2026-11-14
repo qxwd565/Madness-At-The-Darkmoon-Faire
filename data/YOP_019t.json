@@ -8,29 +8,6 @@
     "collectible": false,
     "cost": 0,
     "text": "마나 수정을 2개 회복합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS21-235.tif:8c6304c3e1d54f06ad868bf4278f6c8c",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/YOP_019t.png"
+    "classes": []
   }
 }

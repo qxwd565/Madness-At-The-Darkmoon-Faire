@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_024t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "",
+        "portrait": "HS21-241.tif:dc1c675699384cc9a7b0dc517a7890d1",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 130
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          }
+        ],
+        "art": "art/YOP_024t.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_530",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "묘기를 부리는 자에게 힘을!",
+        "portrait": "HS21-016.tif:527c7d0f8a11484da7c17e1a6e646856",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_530.png"
+      }
+    }
+  }
+}

@@ -11,57 +11,6 @@
     "text": "내가 주문을 시전한 후에, 내 손에 있는 무작위 카드의 비용이 (1) 감소합니다.",
     "attack": 2,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "똑같이 빨간 망토를 두르고 손으로 원을 그리고 있지만, 차원문은커녕 케첩 냄새만 솔솔 납니다.",
-    "spellSchool": "",
-    "portrait": "HS21-145.tif:30195c952ea94c32a4efc3fdfa4f59ef",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_120.png"
+    "classes": []
   }
 }

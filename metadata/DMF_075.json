@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_075",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "\"제가 마지막 순간에 고양이로 변신할게요!\"",
+        "portrait": "HS21-072.tif:3a7e34739f4e4cd8a0679c0c0120d045",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 330,
+            "name": "효과 생성 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 331,
+            "name": "효과 지속 시각 효과",
+            "value": 0
+          }
+        ],
+        "art": "art/DMF_075.png"
+      }
+    }
+  }
+}

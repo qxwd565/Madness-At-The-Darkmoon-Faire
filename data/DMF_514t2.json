@@ -10,49 +10,10 @@
     "text": "",
     "attack": 3,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS21-081.tif:ab451336d9434c2483b43913b3bedbd0",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      }
-    ],
     "races": [
       "BEAST"
     ],
     "race": "야수",
-    "classes": [],
-    "art": "art/DMF_514t2.png"
+    "classes": []
   }
 }

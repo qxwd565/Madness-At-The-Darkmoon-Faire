@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_187",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "손금이 없어도 봐드립니다.",
+        "portrait": "HS21-044.tif:ff0f577e300e4edd81e9cd0cf8e279c4",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 1342,
+            "name": "발견 시각 효과",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ],
+        "art": "art/DMF_187.png"
+      }
+    }
+  }
+}

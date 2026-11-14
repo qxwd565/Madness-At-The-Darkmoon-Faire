@@ -11,57 +11,6 @@
     "text": "<b>전투의 함성:</b><br></br>각 플레이어의 마나 수정을 파괴합니다.",
     "attack": 3,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "너어는 진짜 나쁜 망령이구나!",
-    "spellSchool": "",
-    "portrait": "HS21-022.tif:809c998f1d2f4bf8b86051ec74cf808d",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_115.png"
+    "classes": []
   }
 }

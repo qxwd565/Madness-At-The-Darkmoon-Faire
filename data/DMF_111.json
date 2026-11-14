@@ -11,69 +11,10 @@
     "text": "<b>전투의 함성:</b> 이번 턴에 아군 악마에게 공격력 +3과 <b>생명력 흡수</b>를  부여합니다.",
     "attack": 3,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "아무 노래나 신나는 걸로 일단 틀어주면 춤을 춥니다.",
-    "spellSchool": "",
-    "portrait": "HS21-023.tif:fac84dd22c5041a7bb0233edc1a39b7e",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      }
-    ],
     "races": [
       "DEMON"
     ],
     "race": "악마",
-    "classes": [],
-    "art": "art/DMF_111.png"
+    "classes": []
   }
 }

@@ -1,0 +1,37 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_004t2",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-185.tif:027a0a814d4d4a97bb8467161e921a09",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_004t2.png"
+      }
+    }
+  }
+}

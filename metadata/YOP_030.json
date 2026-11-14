@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_030",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "허락 없이 명사수의 고양이를 쓰다듬으면 한 발 맞을 거예요.",
+        "portrait": "HS21-248.tif:2355ad6c8b894e98a95af11c8f4ed193",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 362,
+            "name": "지속 효과",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 8196
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/YOP_030.png"
+      }
+    }
+  }
+}

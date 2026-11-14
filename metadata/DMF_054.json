@@ -1,0 +1,87 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_054",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "더 깊이 통찰하려면 시력이 얼마나 좋아야 하나요?",
+        "portrait": "HS21-146.tif:a3cbf48b373a43879c2542a241517809",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 330,
+            "name": "효과 생성 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 331,
+            "name": "효과 지속 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 62151
+          },
+          {
+            "id": 1524,
+            "name": "타락",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          },
+          {
+            "id": 1719,
+            "name": "변신 원본 시각 효과",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_054.png"
+      }
+    }
+  }
+}

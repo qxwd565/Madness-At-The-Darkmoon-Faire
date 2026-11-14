@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_512",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "선택받은 자들만이 이 망토를 볼 수 있습니다.",
+        "portrait": "HS21-168.tif:69cbbb59144d4d6088e0ac4583b8ffd2",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 191,
+            "name": "은신",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ],
+        "art": "art/DMF_512.png"
+      }
+    }
+  }
+}

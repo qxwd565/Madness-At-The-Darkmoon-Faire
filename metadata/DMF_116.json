@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_116",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "이름이 다 무엇인가요? 나를 다른 이름으로 불러달라고 해도 늘 돌아오는 건 침묵뿐인 것을.",
+        "portrait": "HS21-047.tif:60843fffc9f646ce9ccd0eae8055d132",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 339,
+            "name": "침묵",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_116.png"
+      }
+    }
+  }
+}

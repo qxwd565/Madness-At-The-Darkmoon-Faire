@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_113",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "자, 누가 우리를 보기 전에 빨리 들어가세요! 들켜서 뒷관광 논란이 나면 제가 곤란해집니다.",
+        "portrait": "HS21-028.tif:4ffe15b8401b4320a9f63b4889a951e1",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_113.png"
+      }
+    }
+  }
+}

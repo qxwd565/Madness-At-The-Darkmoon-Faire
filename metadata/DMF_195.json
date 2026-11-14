@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_195",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "괴물 츄러스 두 개, 요그사론 콤보 하나, 그리고 은빛 성기사 칼을 잡아먹은 칠면조의 다리 하나 주세요!",
+        "portrait": "HS21-159.tif:a5bee76e2b784a4a9705f2ad5af86785",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 1342,
+            "name": "발견 시각 효과",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_195.png"
+      }
+    }
+  }
+}

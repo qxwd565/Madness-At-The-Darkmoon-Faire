@@ -11,57 +11,6 @@
     "text": "<b>타락함</b><br></br><b>도발</b>",
     "attack": 4,
     "health": 7,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS21-042.tif:ff27a4ab135a4654aca06d0e0960bc80",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 7
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 1551,
-        "name": "타락한 카드",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_184t.png"
+    "classes": []
   }
 }

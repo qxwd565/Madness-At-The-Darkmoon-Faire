@@ -1,0 +1,52 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_225",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "\"아니, 내가 보여 달랬지 언제 던지라고 했어?\"",
+        "portrait": "HS21-120.tif:42d5ff019687443da388d0e3edefdf97",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 3630,
+            "name": "게임 태그 3630",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_225.png"
+      }
+    }
+  }
+}

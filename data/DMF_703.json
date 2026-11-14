@@ -11,67 +11,6 @@
     "text": "<b>전투의 함성:</b> 3/2<br></br>결투사를 소환합니다.<br></br><b>타락:</b> 결투사를 둘<br></br>소환합니다.",
     "attack": 1,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "승리하면 사투장 관리인이 직접 조리한 바베큐를 맛볼 수 있습니다.",
-    "spellSchool": "",
-    "portrait": "HS21-154.tif:af49c6246b744f4f8d40fca823b56dbf",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1524,
-        "name": "타락",
-        "value": 1
-      },
-      {
-        "id": 1719,
-        "name": "변신 원본 시각 효과",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_703.png"
+    "classes": []
   }
 }

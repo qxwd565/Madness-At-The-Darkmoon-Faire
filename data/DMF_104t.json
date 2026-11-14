@@ -10,49 +10,10 @@
     "text": "",
     "attack": 8,
     "health": 8,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS21-129.tif:fb84a219bc074f868663a5f851058ea1",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 18
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      }
-    ],
     "races": [
       "ELEMENTAL"
     ],
     "race": "정령",
-    "classes": [],
-    "art": "art/DMF_104t.png"
+    "classes": []
   }
 }

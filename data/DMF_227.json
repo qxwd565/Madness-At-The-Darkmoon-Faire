@@ -10,58 +10,7 @@
     "cost": 3,
     "text": "<b>추방자:</b> 모든 적에게 피해를 1 줍니다.",
     "attack": 3,
-    "health": 0,
     "durability": 2,
-    "armor": 0,
-    "flavor": "가끔 씹고 뜯고 맛보고 즐기기 힘들땐 살살 물기도 합니다.",
-    "spellSchool": "",
-    "portrait": "HS21-121.tif:1eaaad15f67a46e7bd3f43a301ba3d94",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1333,
-        "name": "추방자",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_227.png"
+    "classes": []
   }
 }

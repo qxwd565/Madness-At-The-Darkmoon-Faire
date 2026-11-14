@@ -10,54 +10,10 @@
     "text": "<b>도발</b>",
     "attack": 6,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS21-161.tif:73c2ebe5a813465b8da1724bb4c6a03b",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 18
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      }
-    ],
     "races": [
       "ELEMENTAL"
     ],
     "race": "정령",
-    "classes": [],
-    "art": "art/DMF_238t.png"
+    "classes": []
   }
 }

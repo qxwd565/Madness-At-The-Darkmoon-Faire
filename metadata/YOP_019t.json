@@ -1,0 +1,32 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_019t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "",
+        "portrait": "HS21-235.tif:8c6304c3e1d54f06ad868bf4278f6c8c",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          }
+        ],
+        "art": "art/YOP_019t.png"
+      }
+    }
+  }
+}

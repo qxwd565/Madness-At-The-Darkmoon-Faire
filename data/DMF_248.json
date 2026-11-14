@@ -11,74 +11,10 @@
     "text": "<b>타락:</b> 무기로 바뀝니다.",
     "attack": 4,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "집행자는(은) 범인이 아니었습니다.",
-    "spellSchool": "",
-    "portrait": "HS21-122.tif:f8bcc6b89b074298ac0a31433db1a9a2",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 18
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 61272
-      },
-      {
-        "id": 1524,
-        "name": "타락",
-        "value": 1
-      },
-      {
-        "id": 1719,
-        "name": "변신 원본 시각 효과",
-        "value": 1
-      }
-    ],
     "races": [
       "ELEMENTAL"
     ],
     "race": "정령",
-    "classes": [],
-    "art": "art/DMF_248.png"
+    "classes": []
   }
 }

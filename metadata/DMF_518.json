@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_518",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "\"대체 여길 어떻게 들어왔는지는 모르겠지만, 책임 지셔야 할 거예요!\"",
+        "portrait": "HS21-082.tif:dcad162126f34a828f8569ec0ea21634",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_518.png"
+      }
+    }
+  }
+}

@@ -8,59 +8,6 @@
     "collectible": false,
     "cost": 0,
     "text": "다음 카드의 비용이 더 낮을 것이라 예상합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS21-282_S.tif:2e377cc20b7f4504a891c66bac0adf12",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 189,
-        "name": "질풍",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 402,
-        "name": "능력치 숨김",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_075a2.png"
+    "classes": []
   }
 }

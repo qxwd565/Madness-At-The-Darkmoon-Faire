@@ -1,0 +1,92 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_021",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "불꽃이 되어 날아오르면 사슬에서 쉽게 벗어날 수 있죠.",
+        "portrait": "HS21-237.tif:503f412adfd44227bda8a96c93e760dc",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 192,
+            "name": "주문 공격력",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 18
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 136
+          },
+          {
+            "id": 1518,
+            "name": "휴면",
+            "value": 1
+          },
+          {
+            "id": 1652,
+            "name": "게임 태그 1652",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2542,
+            "name": "게임 태그 2542",
+            "value": 1
+          }
+        ],
+        "art": "art/YOP_021.png"
+      }
+    }
+  }
+}

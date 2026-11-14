@@ -11,62 +11,6 @@
     "text": "<b>전투의 함성:</b> 카드를 2장<br></br>뽑습니다. 그 카드들은<br></br>마나 대신 생명력을<br></br>비용으로 사용합니다.",
     "attack": 8,
     "health": 8,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "다른 고대 신들은 놀려대며 웃었네. 가엾은 혈신 그훈 외톨이가 되었네!",
-    "spellSchool": "",
-    "portrait": "HS21-046.tif:9fc93f27f6284f68982e997bc53bbc41",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_056.png"
+    "classes": []
   }
 }

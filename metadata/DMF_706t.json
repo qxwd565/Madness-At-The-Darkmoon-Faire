@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_706t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-157.tif:6ce0716dd23440b890def07c9550af07",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          }
+        ],
+        "art": "art/DMF_706t.png"
+      }
+    }
+  }
+}

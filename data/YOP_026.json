@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 5,
     "text": "2/2 나무정령을 둘 소환합니다.<br></br>내 하수인들에게 +2/+1을 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "겨우 나무 하나도 제치지 못한다면 이 경주에 참가할 자격도 없습니다.",
     "spellSchool": "NATURE",
-    "portrait": "HS21-244.tif:51f72941a97b4968832c2176963eed9e",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 61465
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/YOP_026.png"
+    "classes": []
   }
 }

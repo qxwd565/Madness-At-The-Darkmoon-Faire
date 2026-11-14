@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_054t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-147.tif:5f17d90b0a1a43a082948ee0aa0c3db4",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 330,
+            "name": "효과 생성 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 331,
+            "name": "효과 지속 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 1551,
+            "name": "타락한 카드",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ],
+        "art": "art/DMF_054t.png"
+      }
+    }
+  }
+}

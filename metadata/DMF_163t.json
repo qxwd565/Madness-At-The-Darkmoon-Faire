@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_163t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-183.tif:c0be77783d1f47edbd3a36047eaa1e8a",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 9
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 1551,
+            "name": "타락한 카드",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_163t.png"
+      }
+    }
+  }
+}

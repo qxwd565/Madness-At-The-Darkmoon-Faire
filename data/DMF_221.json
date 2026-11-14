@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 1,
     "text": "<b>생명력 흡수</b><br></br>선택한 하수인과<br></br>그 양옆의 하수인들에게 피해를 $1 줍니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "지옥비명이 시작되면 모두가 도망치기 바쁩니다.",
     "spellSchool": "FEL",
-    "portrait": "HS21-004.tif:50b67993c4fd4394aefb10df8325b0d4",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 7
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_221.png"
+    "classes": []
   }
 }

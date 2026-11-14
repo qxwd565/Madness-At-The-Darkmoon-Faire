@@ -9,54 +9,6 @@
     "collectible": true,
     "cost": 8,
     "text": "이번 게임에서 죽은<br></br>아군 <b>죽음의 메아리</b><br></br>하수인 셋을 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "보석은 보석이지만, 손에 끼울 수도, 빨아먹을 수도 없습니다.",
-    "spellSchool": "",
-    "portrait": "HS21-036.tif:93a21d2161af4ad8bff48f9e797fab48",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_084.png"
+    "classes": []
   }
 }

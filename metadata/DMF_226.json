@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_226",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "돌잡이 때 칼을 잡길래 요리사가 될 줄 알았는데...",
+        "portrait": "HS21-005.tif:8abcf027f1e548568c2899a4fc1a1089",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 15
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_226.png"
+      }
+    }
+  }
+}

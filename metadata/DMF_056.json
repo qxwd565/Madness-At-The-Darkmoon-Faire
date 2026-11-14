@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_056",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "다른 고대 신들은 놀려대며 웃었네. 가엾은 혈신 그훈 외톨이가 되었네!",
+        "portrait": "HS21-046.tif:9fc93f27f6284f68982e997bc53bbc41",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 8
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 8
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 8
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_056.png"
+      }
+    }
+  }
+}

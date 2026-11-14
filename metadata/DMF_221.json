@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_221",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "지옥비명이 시작되면 모두가 도망치기 바쁩니다.",
+        "portrait": "HS21-004.tif:50b67993c4fd4394aefb10df8325b0d4",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 7
+          }
+        ],
+        "art": "art/DMF_221.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "YOP_008",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-01-22",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-01-22": {
+        "flavor": "경주를 위해 칼로리는 절반만.",
+        "portrait": "HS21-277.tif:ba4f0e4914934d5f96941d712f06ef57",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 18
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2542,
+            "name": "게임 태그 2542",
+            "value": 1
+          }
+        ],
+        "art": "art/YOP_008.png"
+      }
+    }
+  }
+}

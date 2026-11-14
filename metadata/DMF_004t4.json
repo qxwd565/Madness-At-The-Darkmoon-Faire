@@ -1,0 +1,52 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_004t4",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-187.tif:bfc760bc47ce4ce580d91130f286918c",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 330,
+            "name": "효과 생성 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 331,
+            "name": "효과 지속 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_004t4.png"
+      }
+    }
+  }
+}

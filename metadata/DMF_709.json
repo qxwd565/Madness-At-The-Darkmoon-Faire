@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_709",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "이 토템은 플레이버 텍스트를 읽으러 찾아오는 자들의 영혼을 꿰뚫어보는 힘을 가졌습니다.",
+        "portrait": "HS21-158.tif:23d6cff553d5478b8ff81b8dbd085164",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 21
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_709.png"
+      }
+    }
+  }
+}

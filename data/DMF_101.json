@@ -11,79 +11,10 @@
     "text": "<b>전투의 함성:</b> 하수인에게 피해를 3 줍니다.<br></br><b>타락:</b> 대신 피해를 12 줍니다.",
     "attack": 3,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "불 좀 꺼주시겠어요? 폭죽 좀 보게요.",
-    "spellSchool": "",
-    "portrait": "HS21-126.tif:cb791b34444f4bc8b55286e40c992295",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 18
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 61290
-      },
-      {
-        "id": 1524,
-        "name": "타락",
-        "value": 1
-      },
-      {
-        "id": 1719,
-        "name": "변신 원본 시각 효과",
-        "value": 1
-      }
-    ],
     "races": [
       "ELEMENTAL"
     ],
     "race": "정령",
-    "classes": [],
-    "art": "art/DMF_101.png"
+    "classes": []
   }
 }

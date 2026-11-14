@@ -8,44 +8,6 @@
     "collectible": false,
     "cost": 5,
     "text": "<b>크툰의 조각 (0/4)</b><br></br><b>도발</b> 능력이 있는<br></br>6/6 크툰의 육신을<br></br>소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS21-109.tif:fd33f230dd2944fc951f950d029ef9f3",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DMF_254t5.png"
+    "classes": []
   }
 }

@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 3,
     "text": "카드를 3장 뽑습니다.<br></br>내 영웅에게 피해를<br></br>$3 줍니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"이제 내 차 주유는 임프 손에 안 맡겨!\"",
     "spellSchool": "FIRE",
-    "portrait": "HS21-274.tif:045811a1826d41a7b79407ab89908a88",
-    "set": "DARKMOON_FAIRE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 2
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/YOP_033.png"
+    "classes": []
   }
 }

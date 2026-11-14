@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DMF_117t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-11-18",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-11-18": {
+        "flavor": "",
+        "portrait": "HS21-026.tif:b4ce81f504a446418e4750fb2a95f827",
+        "set": "DARKMOON_FAIRE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 1524,
+            "name": "타락",
+            "value": 1
+          },
+          {
+            "id": 1551,
+            "name": "타락한 카드",
+            "value": 1
+          },
+          {
+            "id": 1719,
+            "name": "변신 원본 시각 효과",
+            "value": 1
+          }
+        ],
+        "art": "art/DMF_117t.png"
+      }
+    }
+  }
+}

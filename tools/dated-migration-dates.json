@@ -1,0 +1,23 @@
+{
+  "prefixes": {
+    "DMF": {
+      "date": "2020-11-18",
+      "status": "verified"
+    },
+    "YOP": {
+      "date": "2021-01-22",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "DMF_074": {
+      "date": "2020-10-23",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "DMF": "https://hearthstone.blizzard.com/ko-kr/news/23557139",
+    "YOP": "https://hearthstone.blizzard.com/ko-kr/news/23609762",
+    "DMF_074": "https://hearthstone.blizzard.com/ko-kr/news/23534413"
+  }
+}

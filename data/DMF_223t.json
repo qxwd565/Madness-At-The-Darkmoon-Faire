@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_223t","dbfId":61150,"name":"공연자의 조수","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":1,"text":"<b>도발</b>","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-118.tif:81863fde19884d74a0c80d9da8693eff","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/DMF_223t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-118.tif:81863fde19884d74a0c80d9da8693eff","goldenMaterial":"DMF_223t_PremiumCard.mat:10748ac6ded374b4eb7ffce7ca368e32","goldenAnimation":"DMF_223t_PremiumCard.asset:cc3a726044d9a244f89ba3d7d27461c0"}}
+{
+  "2020-11-18": {
+    "id": "DMF_223t",
+    "dbfId": 61150,
+    "name": "공연자의 조수",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>도발</b>",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-118.tif:81863fde19884d74a0c80d9da8693eff",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_223t.png"
+  }
+}

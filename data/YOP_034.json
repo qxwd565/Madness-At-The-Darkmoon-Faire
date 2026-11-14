@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_034","dbfId":61972,"name":"폭주하는 검은날개","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":10,"text":"내 턴이 끝날 때, 무작위 적 하수인에게 피해를 10 줍니다.","attack":10,"health":10,"durability":0,"armor":0,"flavor":"아제로스 경주 리그의 무사고 기록은 현재 5분을 돌파하고 있습니다.","spellSchool":"","portrait":"HS21-251.tif:fe18e82d5699491b9fe9fe7ee25dd2c2","set":"DARKMOON_FAIRE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":10},{"id":47,"name":"공격력","value":10},{"id":48,"name":"마나 비용","value":10},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":24},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4577,"name":"게임 태그 4577","value":1}],"races":["DRAGON"],"race":"용족","classes":[],"art":"art/YOP_034.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-251.tif:fe18e82d5699491b9fe9fe7ee25dd2c2","goldenMaterial":"YOP_034_PremiumCard.mat:5de8f29655c44aa47a43911652ea5436","goldenAnimation":"YOP_034_PremiumCard.asset:b89e245fd33d91a4dadc8462e45a6c1f"}}
+{
+  "2021-01-22": {
+    "id": "YOP_034",
+    "dbfId": 61972,
+    "name": "폭주하는 검은날개",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 10,
+    "text": "내 턴이 끝날 때, 무작위 적 하수인에게 피해를 10 줍니다.",
+    "attack": 10,
+    "health": 10,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "아제로스 경주 리그의 무사고 기록은 현재 5분을 돌파하고 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS21-251.tif:fe18e82d5699491b9fe9fe7ee25dd2c2",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 10
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4577,
+        "name": "게임 태그 4577",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAGON"
+    ],
+    "race": "용족",
+    "classes": [],
+    "art": "art/YOP_034.png"
+  }
+}

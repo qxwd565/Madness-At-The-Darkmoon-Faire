@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_002","dbfId":60443,"name":"심연의 신 느조스","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":9,"text":"<b>전투의 함성:</b>\n모든 아군 종족을\n하나씩 부활시킵니다.","attack":5,"health":7,"durability":0,"armor":0,"flavor":"모든 아제로스인의 관심과 사랑을 받고 싶어 합니다.","spellSchool":"","portrait":"HS21-104.tif:41a0be91ed3745fbbe67065480e45c4d","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":9},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/DMF_002.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-104.tif:41a0be91ed3745fbbe67065480e45c4d","goldenMaterial":"DMF_002_PremiumCard.mat:80060dacbd3877c4c84c80c4b6b6dac4","goldenAnimation":"DMF_002_PremiumCard.asset:e8af41765022cf141879c255ab6d5795"}}
+{
+  "2020-11-18": {
+    "id": "DMF_002",
+    "dbfId": 60443,
+    "name": "심연의 신 느조스",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 9,
+    "text": "<b>전투의 함성:</b><br></br>모든 아군 종족을<br></br>하나씩 부활시킵니다.",
+    "attack": 5,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "모든 아제로스인의 관심과 사랑을 받고 싶어 합니다.",
+    "spellSchool": "",
+    "portrait": "HS21-104.tif:41a0be91ed3745fbbe67065480e45c4d",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_002.png"
+  }
+}

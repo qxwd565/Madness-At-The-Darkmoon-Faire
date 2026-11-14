@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_023","dbfId":61961,"name":"산사태","type":"SPELL","cardClass":"SHAMAN","rarity":"RARE","collectible":true,"cost":2,"text":"모든 적 하수인에게 피해를 $1 줍니다. 내가 <b>과부하</b>된 상태면, 다시 피해를 $1 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"압도적인 승리를 거뒀습니다! 잠깐만요, 다른 선수들은 모두 어디로 간 거죠?\"","spellSchool":"NATURE","portrait":"HS21-239.tif:497c6c0af80e4a9196cc569f61757d41","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":215,"name":"과부하","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":4},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/YOP_023.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-239.tif:497c6c0af80e4a9196cc569f61757d41","goldenMaterial":"YOP_023_PremiumCard.mat:8bd938649df432047834eac149a97e35","goldenAnimation":"YOP_023_PremiumCard.asset:cc9c58b66ab4ae54987f4d8d3ed02e36"}}
+{
+  "2021-01-22": {
+    "id": "YOP_023",
+    "dbfId": 61961,
+    "name": "산사태",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "모든 적 하수인에게 피해를 $1 줍니다. 내가 <b>과부하</b>된 상태면, 다시 피해를 $1 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"압도적인 승리를 거뒀습니다! 잠깐만요, 다른 선수들은 모두 어디로 간 거죠?\"",
+    "spellSchool": "NATURE",
+    "portrait": "HS21-239.tif:497c6c0af80e4a9196cc569f61757d41",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/YOP_023.png"
+  }
+}

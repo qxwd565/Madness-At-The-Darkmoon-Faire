@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_004t4","dbfId":62086,"name":"정신파괴자 고글","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"무작위 적 하수인 셋을 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-187.tif:bfc760bc47ce4ce580d91130f286918c","set":"DARKMOON_FAIRE","nativeTags":[{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_004t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-187.tif:bfc760bc47ce4ce580d91130f286918c","goldenMaterial":"DMF_004t4_PremiumCard.mat:836fcf21fbe3e7d4eaca442574e78772","goldenAnimation":"DMF_004t4_PremiumCard.asset:2f4b6366520ef40479f65328ac021084"}}
+{
+  "2020-11-18": {
+    "id": "DMF_004t4",
+    "dbfId": 62086,
+    "name": "정신파괴자 고글",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "무작위 적 하수인 셋을 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-187.tif:bfc760bc47ce4ce580d91130f286918c",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_004t4.png"
+  }
+}

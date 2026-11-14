@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_530","dbfId":61263,"name":"힘의 묘기","type":"SPELL","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":3,"text":"내 손에 있는\n무작위 <b>도발</b> 하수인에게\n+5/+5를 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"묘기를 부리는 자에게 힘을!","spellSchool":"","portrait":"HS21-016.tif:527c7d0f8a11484da7c17e1a6e646856","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_530.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-016.tif:527c7d0f8a11484da7c17e1a6e646856","goldenMaterial":"DMF_530_PremiumCard.mat:7d14468cf3f4c1d40ace380d749c4082","goldenAnimation":"DMF_530_PremiumCard.asset:382b25d5b01e52a4d8a81a0775fcbc35"}}
+{
+  "2020-11-18": {
+    "id": "DMF_530",
+    "dbfId": 61263,
+    "name": "힘의 묘기",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "내 손에 있는<br></br>무작위 <b>도발</b> 하수인에게<br></br>+5/+5를 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "묘기를 부리는 자에게 힘을!",
+    "spellSchool": "",
+    "portrait": "HS21-016.tif:527c7d0f8a11484da7c17e1a6e646856",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_530.png"
+  }
+}

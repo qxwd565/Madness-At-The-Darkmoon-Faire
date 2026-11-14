@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_114","dbfId":61206,"name":"축제 놀이왕","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>도발</b>","attack":1,"health":5,"durability":0,"armor":0,"flavor":"지극히 개인주의입니다. 소문에 따르면 인성에 문제가 있다고 합니다.","spellSchool":"","portrait":"HS21-137.tif:c4d0029e2afc425bbe87be3ec373f856","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/DMF_114.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-137.tif:c4d0029e2afc425bbe87be3ec373f856","goldenMaterial":"DMF_114_PremiumCard.mat:3babba992f64cb446835e78559987566","goldenAnimation":"DMF_114_PremiumCard.asset:7062d925870605b4d8be7833f6efe042"}}
+{
+  "2020-11-18": {
+    "id": "DMF_114",
+    "dbfId": 61206,
+    "name": "축제 놀이왕",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>도발</b>",
+    "attack": 1,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "지극히 개인주의입니다. 소문에 따르면 인성에 문제가 있다고 합니다.",
+    "spellSchool": "",
+    "portrait": "HS21-137.tif:c4d0029e2afc425bbe87be3ec373f856",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/DMF_114.png"
+  }
+}

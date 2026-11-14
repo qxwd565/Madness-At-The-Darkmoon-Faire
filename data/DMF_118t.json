@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_118t","dbfId":62039,"name":"티케투스","type":"MINION","cardClass":"WARLOCK","rarity":"LEGENDARY","collectible":false,"cost":6,"text":"<b>타락함</b>\n<b>전투의 함성:</b>\n상대편의 다음 카드 5장을 없앱니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-142.tif:1d8e331c45ea42c390c42616b85bf9bc","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":1551,"name":"타락한 카드","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/DMF_118t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-142.tif:1d8e331c45ea42c390c42616b85bf9bc","goldenMaterial":"DMF_118t_PremiumCard.mat:f4990b03ab5969b49aaec3a8a984b50d","goldenAnimation":"DMF_118t_PremiumCard.asset:8542ea3896a8ccc4f8d6b54730adcb52"}}
+{
+  "2020-11-18": {
+    "id": "DMF_118t",
+    "dbfId": 62039,
+    "name": "티케투스",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 6,
+    "text": "<b>타락함</b><br></br><b>전투의 함성:</b><br></br>상대편의 다음 카드 5장을 없앱니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-142.tif:1d8e331c45ea42c390c42616b85bf9bc",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 1551,
+        "name": "타락한 카드",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/DMF_118t.png"
+  }
+}

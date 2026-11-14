@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_248t","dbfId":61272,"name":"지옥강철 집행자","type":"WEAPON","cardClass":"DEMONHUNTER","rarity":"EPIC","collectible":false,"cost":3,"text":"<b>타락함</b>","attack":4,"health":0,"durability":3,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-123.tif:bc49b7e7ee6a4cd285957fb07962f005","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":4},{"id":1551,"name":"타락한 카드","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_248t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-123.tif:bc49b7e7ee6a4cd285957fb07962f005","goldenMaterial":"DMF_248t_PremiumCard.mat:b651488f38fa6a747acf7d6266786341","goldenAnimation":"DMF_248t_PremiumCard.asset:1509d4e0e11b53e44931faabe649bf65"}}
+{
+  "2020-11-18": {
+    "id": "DMF_248t",
+    "dbfId": 61272,
+    "name": "지옥강철 집행자",
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "EPIC",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>타락함</b>",
+    "attack": 4,
+    "health": 0,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-123.tif:bc49b7e7ee6a4cd285957fb07962f005",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 1551,
+        "name": "타락한 카드",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_248t.png"
+  }
+}

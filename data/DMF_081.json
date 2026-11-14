@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_081","dbfId":61676,"name":"크시르 의식술사","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":3,"text":"<b>도발</b>, <b>전투의 함성:</b>\n비용이 4인 무작위 하수인을 상대편의\n손에 추가합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"사악한 무언가가 다가오고 있습니다... 아! 혼자가 아니군요!","spellSchool":"","portrait":"HS21-102.tif:7c2ee535caf94a969b6691942405a70e","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_081.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-102.tif:7c2ee535caf94a969b6691942405a70e","goldenMaterial":"DMF_081_PremiumCard.mat:aae0587a27ff1234fb9600f586d5e54e","goldenAnimation":"DMF_081_PremiumCard.asset:a8efa323cfdce2a4d9d037e657d5b1f2"}}
+{
+  "2020-11-18": {
+    "id": "DMF_081",
+    "dbfId": 61676,
+    "name": "크시르 의식술사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>비용이 4인 무작위 하수인을 상대편의<br></br>손에 추가합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "사악한 무언가가 다가오고 있습니다... 아! 혼자가 아니군요!",
+    "spellSchool": "",
+    "portrait": "HS21-102.tif:7c2ee535caf94a969b6691942405a70e",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_081.png"
+  }
+}

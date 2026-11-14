@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_706t","dbfId":63226,"name":"천막의 결투사","type":"MINION","cardClass":"SHAMAN","collectible":false,"cost":2,"text":"","attack":3,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-157.tif:6ce0716dd23440b890def07c9550af07","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/DMF_706t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-157.tif:6ce0716dd23440b890def07c9550af07","goldenMaterial":"DMF_706t_PremiumCard.mat:56a178bcd5d1bd84bba2652909687c61","goldenAnimation":"DMF_706t_PremiumCard.asset:2db34b3d82d11af45bcdd7a7371f4200"}}
+{
+  "2020-11-18": {
+    "id": "DMF_706t",
+    "dbfId": 63226,
+    "name": "천막의 결투사",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 2,
+    "text": "",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-157.tif:6ce0716dd23440b890def07c9550af07",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_706t.png"
+  }
+}

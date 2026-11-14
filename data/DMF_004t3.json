@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_004t3","dbfId":62085,"name":"육체의 저주","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"양쪽 전장을 무작위 하수인으로 가득 채웁니다. 내 하수인들에게 <b>속공</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-186.tif:2e250760350143d59cd0f4343cc883f3","set":"DARKMOON_FAIRE","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_004t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-186.tif:2e250760350143d59cd0f4343cc883f3","goldenMaterial":"DMF_004t3_PremiumCard.mat:1f1d730240d28df46aaeaedb61aa66c9","goldenAnimation":"DMF_004t3_PremiumCard.asset:f9d2b6dc8b0414147884da2063874f24"}}
+{
+  "2020-11-18": {
+    "id": "DMF_004t3",
+    "dbfId": 62085,
+    "name": "육체의 저주",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "양쪽 전장을 무작위 하수인으로 가득 채웁니다. 내 하수인들에게 <b>속공</b>을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-186.tif:2e250760350143d59cd0f4343cc883f3",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_004t3.png"
+  }
+}

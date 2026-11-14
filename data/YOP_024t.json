@@ -1,1 +1,55 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_024t","dbfId":63148,"name":"영혼의 길","type":"SPELL","cardClass":"NEUTRAL","rarity":"COMMON","collectible":false,"cost":0,"text":"제시된 주문들을 내 손으로 가져옵니다.\n<b>과부하:</b> (1)","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-241.tif:dc1c675699384cc9a7b0dc517a7890d1","set":"DARKMOON_FAIRE","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":476,"name":"복수 직업","value":130},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":["DRUID","SHAMAN"],"art":"art/YOP_024t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-241.tif:dc1c675699384cc9a7b0dc517a7890d1","goldenMaterial":"YOP_024t_PremiumCard.mat:2e641175bea53554c8ffe187aeed994e","goldenAnimation":"YOP_024t_PremiumCard.asset:2ca8e519a6705f047829f4e12b390a44"}}
+{
+  "2021-01-22": {
+    "id": "YOP_024t",
+    "dbfId": 63148,
+    "name": "영혼의 길",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 0,
+    "text": "제시된 주문들을 내 손으로 가져옵니다.<br></br><b>과부하:</b> (1)",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-241.tif:dc1c675699384cc9a7b0dc517a7890d1",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 130
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "art": "art/YOP_024t.png"
+  }
+}

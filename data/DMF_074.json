@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_074","dbfId":61640,"name":"실라스 다크문","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b>\n<b>모든</b> 하수인들이 둥글게\n둥글게 이동할 방향을\n선택합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"'포탄이 되어 하늘을 달리다'랑 '내 절친을 삼켜버린 회전목마' 놀이기구를 발명한 노움입니다.","spellSchool":"","portrait":"HS21-190.tif:e4f61178302b4024895e6b6c7d71b8e4","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_074.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-190.tif:e4f61178302b4024895e6b6c7d71b8e4","goldenMaterial":"DMF_074_PremiumCard.mat:c790c71e25c34ec428968ebaa0c790a3","goldenAnimation":"DMF_074_PremiumCard.asset:180add3e6c72b28468b6de3c00628ca8"}}
+{
+  "2020-10-23": {
+    "id": "DMF_074",
+    "dbfId": 61640,
+    "name": "실라스 다크문",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b><br></br><b>모든</b> 하수인들이 둥글게<br></br>둥글게 이동할 방향을<br></br>선택합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "'포탄이 되어 하늘을 달리다'랑 '내 절친을 삼켜버린 회전목마' 놀이기구를 발명한 노움입니다.",
+    "spellSchool": "",
+    "portrait": "HS21-190.tif:e4f61178302b4024895e6b6c7d71b8e4",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_074.png"
+  }
+}

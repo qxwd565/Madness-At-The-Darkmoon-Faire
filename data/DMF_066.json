@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_066","dbfId":61620,"name":"단검 상인","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 각 영웅에게 피해를 4씩 줍니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"깨물어 안 아픈 손가락 없다지만, 베이면 더 아픈 손가락은 분명히 있습니다.","spellSchool":"","portrait":"HS21-087.tif:b18b454c17cf4bf09b9714040085db06","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_066.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-087.tif:b18b454c17cf4bf09b9714040085db06","goldenMaterial":"DMF_066_PremiumCard.mat:cda14e14e001067439d2c72722e46f94","goldenAnimation":"DMF_066_PremiumCard.asset:860870b665b91b949927d2dc0e88b3f9"}}
+{
+  "2020-11-18": {
+    "id": "DMF_066",
+    "dbfId": 61620,
+    "name": "단검 상인",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 각 영웅에게 피해를 4씩 줍니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "깨물어 안 아픈 손가락 없다지만, 베이면 더 아픈 손가락은 분명히 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS21-087.tif:b18b454c17cf4bf09b9714040085db06",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_066.png"
+  }
+}

@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_071","dbfId":61635,"name":"붉은 연기의 텐우","type":"MINION","cardClass":"ROGUE","rarity":"LEGENDARY","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 아군 하수인을\n내 손으로 다시 가져옵니다.\n이번 턴에 그 하수인의\n비용이 (1)이 됩니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"빨간색과 모자를 좋아하지만, 빨간 모자라고 부르시면 곤란합니다.","spellSchool":"","portrait":"HS21-083.tif:8a14ed145690426a8bb1e95f6b917a54","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":7},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":251,"name":"게임 태그 251","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/DMF_071.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-083.tif:8a14ed145690426a8bb1e95f6b917a54","goldenMaterial":"DMF_071_PremiumCard.mat:54cca3a416992394fbb44369429995cd","goldenAnimation":"DMF_071_PremiumCard.asset:dafa523e1023be7449417a51ba894684"}}
+{
+  "2020-11-18": {
+    "id": "DMF_071",
+    "dbfId": 61635,
+    "name": "붉은 연기의 텐우",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 아군 하수인을<br></br>내 손으로 다시 가져옵니다.<br></br>이번 턴에 그 하수인의<br></br>비용이 (1)이 됩니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "빨간색과 모자를 좋아하지만, 빨간 모자라고 부르시면 곤란합니다.",
+    "spellSchool": "",
+    "portrait": "HS21-083.tif:8a14ed145690426a8bb1e95f6b917a54",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_071.png"
+  }
+}

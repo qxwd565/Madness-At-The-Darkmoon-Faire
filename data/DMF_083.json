@@ -1,1 +1,104 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_083","dbfId":61679,"name":"춤추는 코브라","type":"MINION","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>타락:</b> <b>독성</b>을 얻습니다.","attack":1,"health":5,"durability":0,"armor":0,"flavor":"피리 소리는 이제 지긋지긋하다고 합니다.","spellSchool":"","portrait":"HS21-030.tif:6bd0f802d3f14f9582fdcaa26b0dc894","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":363,"name":"독성","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":61688},{"id":1524,"name":"타락","value":1},{"id":1719,"name":"변신 원본 시각 효과","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DMF_083.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-030.tif:6bd0f802d3f14f9582fdcaa26b0dc894","goldenMaterial":"DMF_083_PremiumCard.mat:cd4260068397f1040a3bb1c50c93ff1b","goldenAnimation":"DMF_083_PremiumCard.asset:82d09358210174a41901e8e53c7ef760"}}
+{
+  "2020-11-18": {
+    "id": "DMF_083",
+    "dbfId": 61679,
+    "name": "춤추는 코브라",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>타락:</b> <b>독성</b>을 얻습니다.",
+    "attack": 1,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "피리 소리는 이제 지긋지긋하다고 합니다.",
+    "spellSchool": "",
+    "portrait": "HS21-030.tif:6bd0f802d3f14f9582fdcaa26b0dc894",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 363,
+        "name": "독성",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 61688
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DMF_083.png"
+  }
+}

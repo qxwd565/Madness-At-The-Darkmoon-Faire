@@ -1,1 +1,75 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_029","dbfId":61967,"name":"크기 조절 주머니","type":"SPELL","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"내 남은 마나 수정과\n동일한 비용의\n카드를 <b>발견</b>합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"크기 조절 주머니 속 크기 조절 주머니 크기를 조절하는 모습이 상상이나 되십니까?","spellSchool":"","portrait":"HS21-286_S.tif:e9992324fd924c15970b97c37b0e5260","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":476,"name":"복수 직업","value":6},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":["DRUID","HUNTER"],"art":"art/YOP_029.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-286_S.tif:e9992324fd924c15970b97c37b0e5260","goldenMaterial":"YOP_029_PremiumCard.mat:27ec1406b23cde04ea7c5e4cccf8d565","goldenAnimation":"YOP_029_PremiumCard.asset:7d54c1c2a574e2e48b774b449acd193d"}}
+{
+  "2021-01-22": {
+    "id": "YOP_029",
+    "dbfId": 61967,
+    "name": "크기 조절 주머니",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 남은 마나 수정과<br></br>동일한 비용의<br></br>카드를 <b>발견</b>합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "크기 조절 주머니 속 크기 조절 주머니 크기를 조절하는 모습이 상상이나 되십니까?",
+    "spellSchool": "",
+    "portrait": "HS21-286_S.tif:e9992324fd924c15970b97c37b0e5260",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 6
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "art": "art/YOP_029.png"
+  }
+}

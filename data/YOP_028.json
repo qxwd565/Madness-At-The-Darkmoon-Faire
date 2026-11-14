@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_028","dbfId":61966,"name":"안장 장인","type":"MINION","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"내가 야수를 낸 후에, 무작위 야수를 내 손으로 가져옵니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"안장 덮개, 확인. 줄무늬 옷, 확인. 컵 받침대, 확인.","spellSchool":"","portrait":"HS21-246.tif:8a31192b630c46c19386abbf167cf5e6","set":"DARKMOON_FAIRE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/YOP_028.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-246.tif:8a31192b630c46c19386abbf167cf5e6","goldenMaterial":"YOP_028_PremiumCard.mat:b078ce43a7540fb4cad44519d792a79e","goldenAnimation":"YOP_028_PremiumCard.asset:67de7b991af71f642b4f8c1dc1ecce27"}}
+{
+  "2021-01-22": {
+    "id": "YOP_028",
+    "dbfId": 61966,
+    "name": "안장 장인",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "내가 야수를 낸 후에, 무작위 야수를 내 손으로 가져옵니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "안장 덮개, 확인. 줄무늬 옷, 확인. 컵 받침대, 확인.",
+    "spellSchool": "",
+    "portrait": "HS21-246.tif:8a31192b630c46c19386abbf167cf5e6",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/YOP_028.png"
+  }
+}

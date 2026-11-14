@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_025t","dbfId":63080,"name":"꿈꾸는 비룡","type":"MINION","cardClass":"DRUID","rarity":"COMMON","collectible":false,"cost":3,"text":"<b>타락함</b>\n<b>도발</b>","attack":5,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-243.tif:08af0b29b3454d458c984647a7b46736","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":3},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":24},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":1551,"name":"타락한 카드","value":1}],"races":["DRAGON"],"race":"용족","classes":[],"art":"art/YOP_025t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-243.tif:08af0b29b3454d458c984647a7b46736","goldenMaterial":"YOP_025t_PremiumCard.mat:317d11465eb8d4e43a7dd4fcf5d45365","goldenAnimation":"YOP_025t_PremiumCard.asset:03713f8b126751e4e9c491a474a10c87"}}
+{
+  "2021-01-22": {
+    "id": "YOP_025t",
+    "dbfId": 63080,
+    "name": "꿈꾸는 비룡",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>타락함</b><br></br><b>도발</b>",
+    "attack": 5,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-243.tif:08af0b29b3454d458c984647a7b46736",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 1551,
+        "name": "타락한 카드",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAGON"
+    ],
+    "race": "용족",
+    "classes": [],
+    "art": "art/YOP_025t.png"
+  }
+}

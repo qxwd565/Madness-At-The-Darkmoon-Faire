@@ -1,1 +1,66 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_075a","dbfId":61650,"name":"높다!","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":0,"text":"다음 카드의 비용이 더 높을 것이라 예상합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-282_S1.tif:3e1795f76ce541f894de114914336fc5","set":"DARKMOON_FAIRE","nativeTags":[{"id":114,"name":"전설 속성","value":0},{"id":189,"name":"질풍","value":1},{"id":199,"name":"직업","value":2},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":402,"name":"능력치 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_075a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-282_S1.tif:3e1795f76ce541f894de114914336fc5","goldenMaterial":"DMF_075a_PremiumCard.mat:a73b7c9b2abb2d348b8ff26c15f6e7d0","goldenAnimation":"DMF_075a_PremiumCard.asset:170b5404afacb104fbd9e521ac73acaf"}}
+{
+  "2020-11-18": {
+    "id": "DMF_075a",
+    "dbfId": 61650,
+    "name": "높다!",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 0,
+    "text": "다음 카드의 비용이 더 높을 것이라 예상합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-282_S1.tif:3e1795f76ce541f894de114914336fc5",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 189,
+        "name": "질풍",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_075a.png"
+  }
+}

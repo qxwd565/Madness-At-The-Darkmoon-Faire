@@ -1,1 +1,70 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_009","dbfId":61947,"name":"집결!","type":"SPELL","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":4,"text":"비용이 1, 2, 3인\n아군 하수인을 하나씩 부활시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"모두 모두 모여라, 하나 둘 셋!","spellSchool":"HOLY","portrait":"HS21-278.tif:ae6e17de9e3d4f8e9bd82a936fb862d0","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":48},{"id":1635,"name":"주문 속성","value":5},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":["PALADIN","PRIEST"],"art":"art/YOP_009.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-278.tif:ae6e17de9e3d4f8e9bd82a936fb862d0","goldenMaterial":"YOP_009_PremiumCard.mat:368e58ac8aeace6448d727f31f60ad7a","goldenAnimation":"YOP_009_PremiumCard.asset:e80580ae10efd684d943d8c17699a88b"}}
+{
+  "2021-01-22": {
+    "id": "YOP_009",
+    "dbfId": 61947,
+    "name": "집결!",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "비용이 1, 2, 3인<br></br>아군 하수인을 하나씩 부활시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "모두 모두 모여라, 하나 둘 셋!",
+    "spellSchool": "HOLY",
+    "portrait": "HS21-278.tif:ae6e17de9e3d4f8e9bd82a936fb862d0",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 48
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "art": "art/YOP_009.png"
+  }
+}

@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_244","dbfId":61218,"name":"어느 축제날","type":"SPELL","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":3,"text":"은빛 성기사단 신병을 3명 소환합니다. <b>타락:</b> 5명 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"둘이 먹다 내가 죽어도 모르는 맛입니다! - 칼","spellSchool":"","portrait":"HS21-056.tif:eb81f6f938134cce90df3550ba400923","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1524,"name":"타락","value":1},{"id":1719,"name":"변신 원본 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_244.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-056.tif:eb81f6f938134cce90df3550ba400923","goldenMaterial":"DMF_244_PremiumCard.mat:171f889300ceda946bb57f150484e352","goldenAnimation":"DMF_244_PremiumCard.asset:720ed3cf005829144ad29df6374663d3"}}
+{
+  "2020-11-18": {
+    "id": "DMF_244",
+    "dbfId": 61218,
+    "name": "어느 축제날",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "은빛 성기사단 신병을 3명 소환합니다. <b>타락:</b> 5명 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "둘이 먹다 내가 죽어도 모르는 맛입니다! - 칼",
+    "spellSchool": "",
+    "portrait": "HS21-056.tif:eb81f6f938134cce90df3550ba400923",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_244.png"
+  }
+}

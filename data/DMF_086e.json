@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_086e","dbfId":61701,"name":"다크문 타조","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":3,"text":"","attack":3,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-035.tif:a173fa43d9644038ae1ef1291cfcb4e8","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DMF_086e.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-035.tif:a173fa43d9644038ae1ef1291cfcb4e8","goldenMaterial":"DMF_086e_PremiumCard.mat:4d0cf7ce927d2d34c994fe6c8890cd10","goldenAnimation":"DMF_086e_PremiumCard.asset:02a6e78b52a8977468128b740ed5b646"}}
+{
+  "2020-11-18": {
+    "id": "DMF_086e",
+    "dbfId": 61701,
+    "name": "다크문 타조",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 3,
+    "text": "",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-035.tif:a173fa43d9644038ae1ef1291cfcb4e8",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DMF_086e.png"
+  }
+}

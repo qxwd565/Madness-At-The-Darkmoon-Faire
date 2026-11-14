@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_241","dbfId":61192,"name":"대총독 이렐","type":"MINION","cardClass":"PALADIN","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>전투의 함성:</b> 내 덱에 중립\n카드가 없으면, <b>속공</b>,\n<b>생명력 흡수</b>, <b>도발</b>, <b>천상의\n보호막</b>을 얻습니다.","attack":7,"health":5,"durability":0,"armor":0,"flavor":"어둠과의 전쟁에서 중립적인 입장을 취할 수는 없습니다.","spellSchool":"","portrait":"HS21-063.tif:1038383cfbcb4eb2a9e78f31c2862109","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":791,"name":"속공","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/DMF_241.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-063.tif:1038383cfbcb4eb2a9e78f31c2862109","goldenMaterial":"DMF_241_PremiumCard.mat:5f579d190f7c77047ad0916fb10b8d2d","goldenAnimation":"DMF_241_PremiumCard.asset:c4d5b36c6b3ab4546be26da16f1d1646"}}
+{
+  "2020-11-18": {
+    "id": "DMF_241",
+    "dbfId": 61192,
+    "name": "대총독 이렐",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>전투의 함성:</b> 내 덱에 중립<br></br>카드가 없으면, <b>속공</b>,<br></br><b>생명력 흡수</b>, <b>도발</b>, <b>천상의<br></br>보호막</b>을 얻습니다.",
+    "attack": 7,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "어둠과의 전쟁에서 중립적인 입장을 취할 수는 없습니다.",
+    "spellSchool": "",
+    "portrait": "HS21-063.tif:1038383cfbcb4eb2a9e78f31c2862109",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/DMF_241.png"
+  }
+}

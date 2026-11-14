@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_113","dbfId":61205,"name":"무료 입장","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":3,"text":"하수인을 둘 뽑습니다.\n두 하수인 모두 악마면,\n그 악마들의 비용을\n(2) 감소시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"자, 누가 우리를 보기 전에 빨리 들어가세요! 들켜서 뒷관광 논란이 나면 제가 곤란해집니다.","spellSchool":"","portrait":"HS21-028.tif:4ffe15b8401b4320a9f63b4889a951e1","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_113.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-028.tif:4ffe15b8401b4320a9f63b4889a951e1","goldenMaterial":"DMF_113_PremiumCard.mat:28b25423690c45148b679b0f78f561ff","goldenAnimation":"DMF_113_PremiumCard.asset:09dddecada283804badbaf233ebd167f"}}
+{
+  "2020-11-18": {
+    "id": "DMF_113",
+    "dbfId": 61205,
+    "name": "무료 입장",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "하수인을 둘 뽑습니다.<br></br>두 하수인 모두 악마면,<br></br>그 악마들의 비용을<br></br>(2) 감소시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "자, 누가 우리를 보기 전에 빨리 들어가세요! 들켜서 뒷관광 논란이 나면 제가 곤란해집니다.",
+    "spellSchool": "",
+    "portrait": "HS21-028.tif:4ffe15b8401b4320a9f63b4889a951e1",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_113.png"
+  }
+}

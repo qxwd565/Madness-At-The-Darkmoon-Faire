@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_517a","dbfId":61630,"name":"달달한 식성의 축제꾼","type":"MINION","cardClass":"ROGUE","rarity":"COMMON","collectible":false,"cost":2,"text":"<b>타락함</b>\n<b>은신</b>","attack":5,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-076.tif:5d51a3a6d3f84cf0829a72456b6f30b4","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":2},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":1551,"name":"타락한 카드","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_517a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-076.tif:5d51a3a6d3f84cf0829a72456b6f30b4","goldenMaterial":"DMF_517a_PremiumCard.mat:6b82ab066e89d814fa911720f9d4e56b","goldenAnimation":"DMF_517a_PremiumCard.asset:d37fb790f38f68748ae21ebad62fd4b0"}}
+{
+  "2020-11-18": {
+    "id": "DMF_517a",
+    "dbfId": 61630,
+    "name": "달달한 식성의 축제꾼",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>타락함</b><br></br><b>은신</b>",
+    "attack": 5,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-076.tif:5d51a3a6d3f84cf0829a72456b6f30b4",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 1551,
+        "name": "타락한 카드",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_517a.png"
+  }
+}

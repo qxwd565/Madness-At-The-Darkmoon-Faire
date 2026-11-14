@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_032","dbfId":61970,"name":"방어구 상인","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 각 영웅이 방어도를 +4씩 얻습니다.","attack":1,"health":3,"durability":0,"armor":0,"flavor":"“보아하니 방어구가 세 벌이나 필요하실 것 같군요. 한 벌은 지금 입고, 한 벌은 여분으로 보관하고, 한 벌은 전시에 착용하시면 딱 좋겠네요!”","spellSchool":"","portrait":"HS21-250.tif:b290071565d743a4823ac10c51d337dd","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/YOP_032.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-250.tif:b290071565d743a4823ac10c51d337dd","goldenMaterial":"YOP_032_PremiumCard.mat:5d43258712a4ca943acd0f1ea9ad4c2f","goldenAnimation":"YOP_032_PremiumCard.asset:6ae898a6370888242a01d8df0fea8dca"}}
+{
+  "2021-01-22": {
+    "id": "YOP_032",
+    "dbfId": 61970,
+    "name": "방어구 상인",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 각 영웅이 방어도를 +4씩 얻습니다.",
+    "attack": 1,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "“보아하니 방어구가 세 벌이나 필요하실 것 같군요. 한 벌은 지금 입고, 한 벌은 여분으로 보관하고, 한 벌은 전시에 착용하시면 딱 좋겠네요!”",
+    "spellSchool": "",
+    "portrait": "HS21-250.tif:b290071565d743a4823ac10c51d337dd",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/YOP_032.png"
+  }
+}

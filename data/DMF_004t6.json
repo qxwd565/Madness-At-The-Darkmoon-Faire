@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_004t6","dbfId":62088,"name":"통구이 마법봉","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"영웅이 죽을 때까지 무작위 대상에게 '불덩이 작렬'을 시전합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-189.tif:b7f4e0265abd4206bc6c0102d019bb53","set":"DARKMOON_FAIRE","nativeTags":[{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_004t6.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-189.tif:b7f4e0265abd4206bc6c0102d019bb53","goldenMaterial":"DMF_004t6_PremiumCard.mat:01708400ca8ae174d9e8d13d07a0ce30","goldenAnimation":"DMF_004t6_PremiumCard.asset:f6b564c4128e1a647b5cc654f101deef"}}
+{
+  "2020-11-18": {
+    "id": "DMF_004t6",
+    "dbfId": 62088,
+    "name": "통구이 마법봉",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "영웅이 죽을 때까지 무작위 대상에게 '불덩이 작렬'을 시전합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-189.tif:b7f4e0265abd4206bc6c0102d019bb53",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_004t6.png"
+  }
+}

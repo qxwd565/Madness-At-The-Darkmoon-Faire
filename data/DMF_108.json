@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_108","dbfId":61587,"name":"열광의 덱","type":"SPELL","cardClass":"MAGE","rarity":"LEGENDARY","collectible":true,"cost":2,"text":"내 덱에 있는 주문들을\n비용이 (3) 높은 주문들로\n변신시킵니다. <i>(실제 비용은\n변하지 않습니다.)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"마음속으로 질문을 되뇌이며 왼손으로 카드를 뽑아보세요.","spellSchool":"","portrait":"HS21-014.tif:1b2b9ea5e1c5407096c6658c2473d43c","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_108.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-014.tif:1b2b9ea5e1c5407096c6658c2473d43c","goldenMaterial":"DMF_108_PremiumCard.mat:28f4ac4c066f2ac498ff5b536d1e6a58","goldenAnimation":"DMF_108_PremiumCard.asset:6e2a94cf2d6dd5b4fa4b7932d948d532"}}
+{
+  "2020-11-18": {
+    "id": "DMF_108",
+    "dbfId": 61587,
+    "name": "열광의 덱",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 덱에 있는 주문들을<br></br>비용이 (3) 높은 주문들로<br></br>변신시킵니다. <i>(실제 비용은<br></br>변하지 않습니다.)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "마음속으로 질문을 되뇌이며 왼손으로 카드를 뽑아보세요.",
+    "spellSchool": "",
+    "portrait": "HS21-014.tif:1b2b9ea5e1c5407096c6658c2473d43c",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_108.png"
+  }
+}

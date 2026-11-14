@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_704","dbfId":61226,"name":"우리 결투 관리자","type":"MINION","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b>\n무기를 뽑습니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"폭탄부터 잔반까지 모두 깔끔하게 해치우는 처리반입니다.","spellSchool":"","portrait":"HS21-049.tif:83f98f06168549c0a8049517068418a5","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/DMF_704.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-049.tif:83f98f06168549c0a8049517068418a5","goldenMaterial":"DMF_704_PremiumCard.mat:2d306fe8e7ad0a04a82ffc310507c025","goldenAnimation":"DMF_704_PremiumCard.asset:bdc1abb4ac2ed214aa804ae51d3c49e8"}}
+{
+  "2020-11-18": {
+    "id": "DMF_704",
+    "dbfId": 61226,
+    "name": "우리 결투 관리자",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b><br></br>무기를 뽑습니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "폭탄부터 잔반까지 모두 깔끔하게 해치우는 처리반입니다.",
+    "spellSchool": "",
+    "portrait": "HS21-049.tif:83f98f06168549c0a8049517068418a5",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/DMF_704.png"
+  }
+}

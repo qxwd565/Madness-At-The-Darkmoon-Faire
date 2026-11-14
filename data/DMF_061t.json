@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_061t","dbfId":61466,"name":"축제 수목 재배가","type":"MINION","cardClass":"DRUID","rarity":"COMMON","collectible":false,"cost":3,"text":"<b>타락함</b>\n<b>전투의 함성:</b> 2/2 나무정령을 소환합니다. 카드를 뽑습니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-067.tif:56c758147e65441cb4d89f6af689248d","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":1551,"name":"타락한 카드","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_061t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-067.tif:56c758147e65441cb4d89f6af689248d","goldenMaterial":"DMF_061t_PremiumCard.mat:9387d5bfd1f99e44fb080356f8a949c8","goldenAnimation":"DMF_061t_PremiumCard.asset:1ad2a8183cc42e241a1735a38c63dd8b"}}
+{
+  "2020-11-18": {
+    "id": "DMF_061t",
+    "dbfId": 61466,
+    "name": "축제 수목 재배가",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>타락함</b><br></br><b>전투의 함성:</b> 2/2 나무정령을 소환합니다. 카드를 뽑습니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-067.tif:56c758147e65441cb4d89f6af689248d",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 1551,
+        "name": "타락한 카드",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_061t.png"
+  }
+}

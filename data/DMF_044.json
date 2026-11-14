@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_044","dbfId":60916,"name":"바위 광전사","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>도발</b>","attack":5,"health":1,"durability":0,"armor":0,"flavor":"가위바위보를 연패하자 특이점이 온 바위정령입니다.","spellSchool":"","portrait":"HS21-173.tif:c622a2278e5c4103810ceaac23a8b123","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/DMF_044.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-173.tif:c622a2278e5c4103810ceaac23a8b123","goldenMaterial":"DMF_044_PremiumCard.mat:c8a8295e36d42734bb8c18decbf42ce0","goldenAnimation":"DMF_044_PremiumCard.asset:bcef86a7f2b89bc44a8b83048cdbd913"}}
+{
+  "2020-11-18": {
+    "id": "DMF_044",
+    "dbfId": 60916,
+    "name": "바위 광전사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>도발</b>",
+    "attack": 5,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "가위바위보를 연패하자 특이점이 온 바위정령입니다.",
+    "spellSchool": "",
+    "portrait": "HS21-173.tif:c622a2278e5c4103810ceaac23a8b123",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/DMF_044.png"
+  }
+}

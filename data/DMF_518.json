@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_518","dbfId":61169,"name":"악의의 일격","type":"SPELL","cardClass":"ROGUE","rarity":"EPIC","collectible":true,"cost":5,"text":"하수인을 처치합니다.\n게임이 시작됐을 때 내 덱에\n없던 내 덱의 카드 하나당\n비용이 (1)씩 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"대체 여길 어떻게 들어왔는지는 모르겠지만, 책임 지셔야 할 거예요!\"","spellSchool":"","portrait":"HS21-082.tif:dcad162126f34a828f8569ec0ea21634","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_518.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-082.tif:dcad162126f34a828f8569ec0ea21634","goldenMaterial":"DMF_518_PremiumCard.mat:2c258a631199a1149b125bfc26318970","goldenAnimation":"DMF_518_PremiumCard.asset:395b1d246a610a2469bfd839e4cb7090"}}
+{
+  "2020-11-18": {
+    "id": "DMF_518",
+    "dbfId": 61169,
+    "name": "악의의 일격",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "하수인을 처치합니다.<br></br>게임이 시작됐을 때 내 덱에<br></br>없던 내 덱의 카드 하나당<br></br>비용이 (1)씩 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"대체 여길 어떻게 들어왔는지는 모르겠지만, 책임 지셔야 할 거예요!\"",
+    "spellSchool": "",
+    "portrait": "HS21-082.tif:dcad162126f34a828f8569ec0ea21634",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_518.png"
+  }
+}

@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_002","dbfId":61940,"name":"지옥표범","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":4,"text":"이번 턴에 내 영웅이 공격했을 때에만 공격할 수 있습니다.","attack":5,"health":6,"durability":0,"armor":0,"flavor":"나 으르렁 으르렁 으르렁 대.","spellSchool":"","portrait":"HS21-270.tif:c056017ba04448d0b025c0d0386945cb","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":858,"name":"게임 태그 858","value":38304},{"id":1824,"name":"미니 세트","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/YOP_002.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-270.tif:c056017ba04448d0b025c0d0386945cb","goldenMaterial":"YOP_002_PremiumCard.mat:985d0442416fa3d46a7774235a97be45","goldenAnimation":"YOP_002_PremiumCard.asset:460375698d5706242a752b70c1084142"}}
+{
+  "2021-01-22": {
+    "id": "YOP_002",
+    "dbfId": 61940,
+    "name": "지옥표범",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "이번 턴에 내 영웅이 공격했을 때에만 공격할 수 있습니다.",
+    "attack": 5,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "나 으르렁 으르렁 으르렁 대.",
+    "spellSchool": "",
+    "portrait": "HS21-270.tif:c056017ba04448d0b025c0d0386945cb",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 858,
+        "name": "게임 태그 858",
+        "value": 38304
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/YOP_002.png"
+  }
+}

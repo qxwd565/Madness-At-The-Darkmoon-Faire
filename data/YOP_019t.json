@@ -1,1 +1,36 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_019t","dbfId":61980,"name":"마나빵","type":"SPELL","cardClass":"MAGE","collectible":false,"cost":0,"text":"마나 수정을 2개 회복합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-235.tif:8c6304c3e1d54f06ad868bf4278f6c8c","set":"DARKMOON_FAIRE","nativeTags":[{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/YOP_019t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-235.tif:8c6304c3e1d54f06ad868bf4278f6c8c","goldenMaterial":"YOP_019t_PremiumCard.mat:8b4f751776ac1a84da4e57ff8a6cecf4","goldenAnimation":"YOP_019t_PremiumCard.asset:22f280281fc5edf499c63faa6513c8c5"}}
+{
+  "2021-01-22": {
+    "id": "YOP_019t",
+    "dbfId": 61980,
+    "name": "마나빵",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "collectible": false,
+    "cost": 0,
+    "text": "마나 수정을 2개 회복합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-235.tif:8c6304c3e1d54f06ad868bf4278f6c8c",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/YOP_019t.png"
+  }
+}

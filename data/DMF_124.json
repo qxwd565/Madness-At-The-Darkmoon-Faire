@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_124","dbfId":61685,"name":"끔찍한 증식물","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":2,"text":"<b>타락:</b> +1/+1을 얻습니다.\n계속 <b>타락</b>할 수 있습니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"건강하게만 자라달래서 건강하게만 자랐죠...","spellSchool":"","portrait":"HS21-180.tif:4d2577b9483e449982f3cf2f6e009f4a","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":62074},{"id":1524,"name":"타락","value":1},{"id":1719,"name":"변신 원본 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_124.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-180.tif:4d2577b9483e449982f3cf2f6e009f4a","goldenMaterial":"DMF_124_PremiumCard.mat:817c93afe264aa946bb8d93ab7bd4bc3","goldenAnimation":"DMF_124_PremiumCard.asset:abfe5ef71e3e3984aa182126162f5dc5"}}
+{
+  "2020-11-18": {
+    "id": "DMF_124",
+    "dbfId": 61685,
+    "name": "끔찍한 증식물",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>타락:</b> +1/+1을 얻습니다.<br></br>계속 <b>타락</b>할 수 있습니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "건강하게만 자라달래서 건강하게만 자랐죠...",
+    "spellSchool": "",
+    "portrait": "HS21-180.tif:4d2577b9483e449982f3cf2f6e009f4a",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 62074
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_124.png"
+  }
+}

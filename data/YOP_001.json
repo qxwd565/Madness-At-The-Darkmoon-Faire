@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_001","dbfId":61939,"name":"일리다리 탐구","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>추방자</b> 카드를\n<b>발견</b>합니다.\n내 다음 <b>추방자</b> 카드의\n비용이 (1) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"운전할 땐 책 읽지 마세요.\"","spellSchool":"","portrait":"HS21-269.tif:985996f77bf3419dbc60b47364e0b883","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1333,"name":"추방자","value":1},{"id":1650,"name":"연구 발견 시각 효과","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/YOP_001.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-269.tif:985996f77bf3419dbc60b47364e0b883","goldenMaterial":"YOP_001_PremiumCard.mat:f4e06f18f20f96b42bf8f3fdf9290ea9","goldenAnimation":"YOP_001_PremiumCard.asset:4bb4861dbba4c3c438099bb0be711e41"}}
+{
+  "2021-01-22": {
+    "id": "YOP_001",
+    "dbfId": 61939,
+    "name": "일리다리 탐구",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>추방자</b> 카드를<br></br><b>발견</b>합니다.<br></br>내 다음 <b>추방자</b> 카드의<br></br>비용이 (1) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"운전할 땐 책 읽지 마세요.\"",
+    "spellSchool": "",
+    "portrait": "HS21-269.tif:985996f77bf3419dbc60b47364e0b883",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1333,
+        "name": "추방자",
+        "value": 1
+      },
+      {
+        "id": 1650,
+        "name": "연구 발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/YOP_001.png"
+  }
+}

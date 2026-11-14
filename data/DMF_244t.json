@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_244t","dbfId":61219,"name":"어느 축제날","type":"SPELL","cardClass":"PALADIN","rarity":"COMMON","collectible":false,"cost":3,"text":"<b>타락함</b>\n은빛 성기사단 신병을\n5명 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-057.tif:7e88be19aa974d13bb32e7eaa6dfbc40","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":1551,"name":"타락한 카드","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_244t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-057.tif:7e88be19aa974d13bb32e7eaa6dfbc40","goldenMaterial":"DMF_244t_PremiumCard.mat:b7b8cf7938a18ad42b8458e1c152f533","goldenAnimation":"DMF_244t_PremiumCard.asset:962696a4b0a50b44193bdf86050d1414"}}
+{
+  "2020-11-18": {
+    "id": "DMF_244t",
+    "dbfId": 61219,
+    "name": "어느 축제날",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>타락함</b><br></br>은빛 성기사단 신병을<br></br>5명 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-057.tif:7e88be19aa974d13bb32e7eaa6dfbc40",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 1551,
+        "name": "타락한 카드",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_244t.png"
+  }
+}

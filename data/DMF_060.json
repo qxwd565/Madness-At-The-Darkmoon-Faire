@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_060","dbfId":61461,"name":"암영 부엉이","type":"MINION","cardClass":"DRUID","rarity":"RARE","collectible":true,"cost":7,"text":"<b>속공</b>, 이번 게임에서\n내가 시전한 주문 하나당 비용이 (1)씩 감소합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"한쪽 눈을 뜨고 자면 다음 날 눈이 덜 부엉!","spellSchool":"","portrait":"HS21-164.tif:a2e86906501f4278a1b4f91671f145e7","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DMF_060.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-164.tif:a2e86906501f4278a1b4f91671f145e7","goldenMaterial":"DMF_060_PremiumCard.mat:f9e1b219f0b781e4398275dc8e681e87","goldenAnimation":"DMF_060_PremiumCard.asset:e2ccc54048173af47a75329948587e34"}}
+{
+  "2020-11-18": {
+    "id": "DMF_060",
+    "dbfId": 61461,
+    "name": "암영 부엉이",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>속공</b>, 이번 게임에서<br></br>내가 시전한 주문 하나당 비용이 (1)씩 감소합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "한쪽 눈을 뜨고 자면 다음 날 눈이 덜 부엉!",
+    "spellSchool": "",
+    "portrait": "HS21-164.tif:a2e86906501f4278a1b4f91671f145e7",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DMF_060.png"
+  }
+}

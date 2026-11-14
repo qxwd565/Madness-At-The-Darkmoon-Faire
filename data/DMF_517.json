@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_517","dbfId":61168,"name":"달달한 식성의 축제꾼","type":"MINION","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>타락:</b> 공격력 +2와 <b>은신</b>을 얻습니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"\"아... 이러니까 다들 다크문 축제를 못 떠나는구나! 제가 살면서 아이스크림 먹어볼 일이 뭐가 있겠어요!\"","spellSchool":"","portrait":"HS21-075.tif:4e458a6b381f46f1bca9e8f5d2f0ee7f","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":61630},{"id":1524,"name":"타락","value":1},{"id":1719,"name":"변신 원본 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_517.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-075.tif:4e458a6b381f46f1bca9e8f5d2f0ee7f","goldenMaterial":"DMF_517_PremiumCard.mat:2f93ebc00fcf59d4e933d141e9fe9e05","goldenAnimation":"DMF_517_PremiumCard.asset:29dcf13d42b146e46a3ed85c2e4cb17a"}}
+{
+  "2020-11-18": {
+    "id": "DMF_517",
+    "dbfId": 61168,
+    "name": "달달한 식성의 축제꾼",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>타락:</b> 공격력 +2와 <b>은신</b>을 얻습니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"아... 이러니까 다들 다크문 축제를 못 떠나는구나! 제가 살면서 아이스크림 먹어볼 일이 뭐가 있겠어요!\"",
+    "spellSchool": "",
+    "portrait": "HS21-075.tif:4e458a6b381f46f1bca9e8f5d2f0ee7f",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 61630
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_517.png"
+  }
+}

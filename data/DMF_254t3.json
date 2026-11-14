@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_254t3","dbfId":61873,"name":"크툰의 눈","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":5,"text":"<b>크툰의 조각 (0/4)</b>\n모든 적에게 $7의 피해를 무작위로 나누어 입힙니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-107.tif:b3c02be1eba442c1a261eee28fbb4630","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":349,"name":"게임 태그 349","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_254t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-107.tif:b3c02be1eba442c1a261eee28fbb4630","goldenMaterial":"DMF_254t3_PremiumCard.mat:26abf6117562ae347a968619c9fd0ded","goldenAnimation":"DMF_254t3_PremiumCard.asset:e5c8c11f8322cf3469dcb99fb1d1646f"}}
+{
+  "2020-11-18": {
+    "id": "DMF_254t3",
+    "dbfId": 61873,
+    "name": "크툰의 눈",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>크툰의 조각 (0/4)</b><br></br>모든 적에게 $7의 피해를 무작위로 나누어 입힙니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-107.tif:b3c02be1eba442c1a261eee28fbb4630",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 349,
+        "name": "게임 태그 349",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_254t3.png"
+  }
+}

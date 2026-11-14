@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_088","dbfId":61839,"name":"린링의 소총","type":"WEAPON","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"내 영웅이 공격한 후에,\n<b>비밀</b>을 <b>발견</b>하여\n시전합니다.","attack":2,"health":0,"durability":2,"armor":0,"flavor":"어찌나 말이 많은지 하루종일 따발총처럼 쏘아댑니다.","spellSchool":"","portrait":"HS21-039.tif:0fac02811d3241dc94bdda408a214217","set":"DARKMOON_FAIRE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":5},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_088.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-039.tif:0fac02811d3241dc94bdda408a214217","goldenMaterial":"DMF_088_PremiumCard.mat:d106a6e91de31794aa396316c012f842","goldenAnimation":"DMF_088_PremiumCard.asset:d9c9603b8d5fd91438db58b7c15ad317"}}
+{
+  "2020-11-18": {
+    "id": "DMF_088",
+    "dbfId": 61839,
+    "name": "린링의 소총",
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 영웅이 공격한 후에,<br></br><b>비밀</b>을 <b>발견</b>하여<br></br>시전합니다.",
+    "attack": 2,
+    "health": 0,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "어찌나 말이 많은지 하루종일 따발총처럼 쏘아댑니다.",
+    "spellSchool": "",
+    "portrait": "HS21-039.tif:0fac02811d3241dc94bdda408a214217",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_088.png"
+  }
+}

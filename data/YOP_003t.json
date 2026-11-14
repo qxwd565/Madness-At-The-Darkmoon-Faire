@@ -1,1 +1,80 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_003t","dbfId":61976,"name":"행운영혼 수집가","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":false,"cost":3,"text":"<b>타락함</b>\n<b>전투의 함성:</b> 영혼 파편을\n내 덱에 둘 섞어 넣습니다.\n카드를 뽑습니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-272.tif:36deaed6f4f74291ac59ef8969e5158a","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":476,"name":"복수 직업","value":8448},{"id":1551,"name":"타락한 카드","value":1},{"id":1590,"name":"게임 태그 1590","value":1}],"races":[],"race":"","classes":["WARLOCK","DEMONHUNTER"],"art":"art/YOP_003t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-272.tif:36deaed6f4f74291ac59ef8969e5158a","goldenMaterial":"YOP_003t_PremiumCard.mat:615e41458f782cd4697b80c4173ab71e","goldenAnimation":"YOP_003t_PremiumCard.asset:60091e2b3d3552a41aadab61f36d4011"}}
+{
+  "2021-01-22": {
+    "id": "YOP_003t",
+    "dbfId": 61976,
+    "name": "행운영혼 수집가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>타락함</b><br></br><b>전투의 함성:</b> 영혼 파편을<br></br>내 덱에 둘 섞어 넣습니다.<br></br>카드를 뽑습니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-272.tif:36deaed6f4f74291ac59ef8969e5158a",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 8448
+      },
+      {
+        "id": 1551,
+        "name": "타락한 카드",
+        "value": 1
+      },
+      {
+        "id": 1590,
+        "name": "게임 태그 1590",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "art": "art/YOP_003t.png"
+  }
+}

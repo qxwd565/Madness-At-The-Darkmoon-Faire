@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_011","dbfId":61949,"name":"심판의 성서","type":"WEAPON","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>타락:</b> <b>생명력 흡수</b>를 얻습니다.","attack":5,"health":0,"durability":3,"armor":0,"flavor":"겉표지만 보고 책을 판단해선 안 돼요.","spellSchool":"","portrait":"HS21-280.tif:81f781e3425c4867a654eae00a66f3e9","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":61981},{"id":1524,"name":"타락","value":1},{"id":1546,"name":"게임 태그 1546","value":1},{"id":1719,"name":"변신 원본 시각 효과","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/YOP_011.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-280.tif:81f781e3425c4867a654eae00a66f3e9","goldenMaterial":"YOP_011_PremiumCard.mat:cf0daa5473afdd54ba1267aa23f20f3d","goldenAnimation":"YOP_011_PremiumCard.asset:03b0da5b9f164c248886a71e816e4799"}}
+{
+  "2021-01-22": {
+    "id": "YOP_011",
+    "dbfId": 61949,
+    "name": "심판의 성서",
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>타락:</b> <b>생명력 흡수</b>를 얻습니다.",
+    "attack": 5,
+    "health": 0,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "겉표지만 보고 책을 판단해선 안 돼요.",
+    "spellSchool": "",
+    "portrait": "HS21-280.tif:81f781e3425c4867a654eae00a66f3e9",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 61981
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1546,
+        "name": "게임 태그 1546",
+        "value": 1
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/YOP_011.png"
+  }
+}

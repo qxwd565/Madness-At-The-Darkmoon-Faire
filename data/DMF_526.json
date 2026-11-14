@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_526","dbfId":61249,"name":"스테이지 다이브","type":"SPELL","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":1,"text":"<b>속공</b> 하수인을 뽑습니다.\n<b>타락:</b> 그 하수인에게\n+2/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"콘서트가 무르익었습니다. 진정한 팬이라면 머리 위로 손을 들어 주십시오.","spellSchool":"","portrait":"HS21-134.tif:41a05004039f418a9986de19669ea4fc","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":61427},{"id":1524,"name":"타락","value":1},{"id":1719,"name":"변신 원본 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_526.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-134.tif:41a05004039f418a9986de19669ea4fc","goldenMaterial":"DMF_526_PremiumCard.mat:bf2cdfbfda2b8b34db06b22cb5e919b1","goldenAnimation":"DMF_526_PremiumCard.asset:6ab79907c5af6cf4bbe3617c81e58393"}}
+{
+  "2020-11-18": {
+    "id": "DMF_526",
+    "dbfId": 61249,
+    "name": "스테이지 다이브",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>속공</b> 하수인을 뽑습니다.<br></br><b>타락:</b> 그 하수인에게<br></br>+2/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "콘서트가 무르익었습니다. 진정한 팬이라면 머리 위로 손을 들어 주십시오.",
+    "spellSchool": "",
+    "portrait": "HS21-134.tif:41a05004039f418a9986de19669ea4fc",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 61427
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_526.png"
+  }
+}

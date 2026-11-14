@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_053","dbfId":61434,"name":"그훈의 피","type":"MINION","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":9,"text":"<b>도발</b>, 내 턴이 끝날 때,\n내 덱에서 하수인을 복사하여 5/5 하수인으로 소환합니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"안면 인식을 등록해본 적이 없다니 가슴이 웅장해집니다.","spellSchool":"","portrait":"HS21-150.tif:5f53a02b23ba4d45b501ff7155cb638e","set":"DARKMOON_FAIRE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":9},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":18},{"id":201,"name":"진영","value":1},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/DMF_053.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-150.tif:5f53a02b23ba4d45b501ff7155cb638e","goldenMaterial":"DMF_053_PremiumCard.mat:92c4a64be930f654a9b7d579b31e5bd9","goldenAnimation":"DMF_053_PremiumCard.asset:16a82c922fb6d254b816866deb7af262"}}
+{
+  "2020-11-18": {
+    "id": "DMF_053",
+    "dbfId": 61434,
+    "name": "그훈의 피",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 9,
+    "text": "<b>도발</b>, 내 턴이 끝날 때,<br></br>내 덱에서 하수인을 복사하여 5/5 하수인으로 소환합니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "안면 인식을 등록해본 적이 없다니 가슴이 웅장해집니다.",
+    "spellSchool": "",
+    "portrait": "HS21-150.tif:5f53a02b23ba4d45b501ff7155cb638e",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/DMF_053.png"
+  }
+}

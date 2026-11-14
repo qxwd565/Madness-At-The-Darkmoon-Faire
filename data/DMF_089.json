@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_089","dbfId":61842,"name":"맥시마 블라스텐하이머","type":"MINION","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 내 덱에서 하수인을 소환합니다.\n그 하수인은 적 영웅을\n공격한 후에 죽습니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"믿기지 않으시겠지만, 이 게임은 12세 이용가입니다.","spellSchool":"","portrait":"HS21-040.tif:b3103e21b42243f69f3c16d554fd22b8","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/DMF_089.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-040.tif:b3103e21b42243f69f3c16d554fd22b8","goldenMaterial":"DMF_089_PremiumCard.mat:e48b78e838317054abc673f64355e29f","goldenAnimation":"DMF_089_PremiumCard.asset:58eab16e1c09c85469fc99a275fbd84d"}}
+{
+  "2020-11-18": {
+    "id": "DMF_089",
+    "dbfId": 61842,
+    "name": "맥시마 블라스텐하이머",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 내 덱에서 하수인을 소환합니다.<br></br>그 하수인은 적 영웅을<br></br>공격한 후에 죽습니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "믿기지 않으시겠지만, 이 게임은 12세 이용가입니다.",
+    "spellSchool": "",
+    "portrait": "HS21-040.tif:b3103e21b42243f69f3c16d554fd22b8",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_089.png"
+  }
+}

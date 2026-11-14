@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_707","dbfId":61229,"name":"뾰로롫","type":"MINION","cardClass":"SHAMAN","rarity":"EPIC","collectible":true,"cost":3,"text":"아군 멀록이 죽은 후에,\n무작위 <b>전설</b> 하수인을\n내 손으로 가져옵니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"어떻게 모자에서 데스윙을 꺼낼 수 있냐고요? 그건 데스형도 모른다고 하네요.","spellSchool":"","portrait":"HS21-052.tif:1db6b40cd64a4ace90a81d5db59a6c2e","set":"DARKMOON_FAIRE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/DMF_707.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-052.tif:1db6b40cd64a4ace90a81d5db59a6c2e","goldenMaterial":"DMF_707_PremiumCard.mat:6c6772e6e163d6240bfd5cd8417a1307","goldenAnimation":"DMF_707_PremiumCard.asset:114139d21764e6c4a9407da03f7adcd6"}}
+{
+  "2020-11-18": {
+    "id": "DMF_707",
+    "dbfId": 61229,
+    "name": "뾰로롫",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "아군 멀록이 죽은 후에,<br></br>무작위 <b>전설</b> 하수인을<br></br>내 손으로 가져옵니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "어떻게 모자에서 데스윙을 꺼낼 수 있냐고요? 그건 데스형도 모른다고 하네요.",
+    "spellSchool": "",
+    "portrait": "HS21-052.tif:1db6b40cd64a4ace90a81d5db59a6c2e",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/DMF_707.png"
+  }
+}

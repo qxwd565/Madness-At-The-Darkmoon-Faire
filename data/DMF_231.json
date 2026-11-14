@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_231","dbfId":61137,"name":"기상천외한 자이","type":"MINION","cardClass":"DEMONHUNTER","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 내 손에서 가장 왼쪽과 오른쪽에 있는 카드를 복사합니다.","attack":6,"health":4,"durability":0,"armor":0,"flavor":"다음 무대로 자이의 남동생, 무미건조한 프랭크의 공연이 펼쳐질 예정입니다.","spellSchool":"","portrait":"HS21-125.tif:a395c68b25254f2ea8e691e639ae83f7","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_231.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-125.tif:a395c68b25254f2ea8e691e639ae83f7","goldenMaterial":"DMF_231_PremiumCard.mat:44639e9abf3f4ef49be7a526874af48e","goldenAnimation":"DMF_231_PremiumCard.asset:e31f8f7d178f0814cbe11010d0ad4a55"}}
+{
+  "2020-11-18": {
+    "id": "DMF_231",
+    "dbfId": 61137,
+    "name": "기상천외한 자이",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 내 손에서 가장 왼쪽과 오른쪽에 있는 카드를 복사합니다.",
+    "attack": 6,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "다음 무대로 자이의 남동생, 무미건조한 프랭크의 공연이 펼쳐질 예정입니다.",
+    "spellSchool": "",
+    "portrait": "HS21-125.tif:a395c68b25254f2ea8e691e639ae83f7",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_231.png"
+  }
+}

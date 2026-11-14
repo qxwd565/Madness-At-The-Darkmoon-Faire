@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_186","dbfId":61283,"name":"상서로운 영혼","type":"SPELL","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":4,"text":"비용이 4인 무작위 하수인을 소환합니다.\n<b>타락:</b> 대신 비용이 7인 하수인을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"상서로운 영혼이지만 하는 짓은 영 상스럽기만 합니다.","spellSchool":"SHADOW","portrait":"HS21-148.tif:43dfe555e5fc4866a39ae0b7b6fa0aac","set":"DARKMOON_FAIRE","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":61668},{"id":1524,"name":"타락","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":1719,"name":"변신 원본 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_186.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-148.tif:43dfe555e5fc4866a39ae0b7b6fa0aac","goldenMaterial":"DMF_186_PremiumCard.mat:9e65a004a5bbd4a46ac75987b6a06d7b","goldenAnimation":"DMF_186_PremiumCard.asset:9c911d9288629bf4a8d51e0dc268317f"}}
+{
+  "2020-11-18": {
+    "id": "DMF_186",
+    "dbfId": 61283,
+    "name": "상서로운 영혼",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "비용이 4인 무작위 하수인을 소환합니다.<br></br><b>타락:</b> 대신 비용이 7인 하수인을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "상서로운 영혼이지만 하는 짓은 영 상스럽기만 합니다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS21-148.tif:43dfe555e5fc4866a39ae0b7b6fa0aac",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 61668
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_186.png"
+  }
+}

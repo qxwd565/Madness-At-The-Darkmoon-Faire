@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_078","dbfId":61670,"name":"괴력의 사나이","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>도발</b>, <b>타락:</b> 비용이\n(0)이 됩니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"통 안에 든 게 헬륨가스인 걸 들키지 않으려면 표정 연기도 신경 써야 합니다.","spellSchool":"","portrait":"HS21-094.tif:017dff661bce4b07a81b501231c056fc","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":7},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":61671},{"id":1524,"name":"타락","value":1},{"id":1719,"name":"변신 원본 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_078.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-094.tif:017dff661bce4b07a81b501231c056fc","goldenMaterial":"DMF_078_PremiumCard.mat:bdffc2ba877f41747865dcd95b84c8cc","goldenAnimation":"DMF_078_PremiumCard.asset:0c0f3aab3277ccc4ab89e9faaf0547c1"}}
+{
+  "2020-11-18": {
+    "id": "DMF_078",
+    "dbfId": 61670,
+    "name": "괴력의 사나이",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>도발</b>, <b>타락:</b> 비용이<br></br>(0)이 됩니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "통 안에 든 게 헬륨가스인 걸 들키지 않으려면 표정 연기도 신경 써야 합니다.",
+    "spellSchool": "",
+    "portrait": "HS21-094.tif:017dff661bce4b07a81b501231c056fc",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 61671
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_078.png"
+  }
+}

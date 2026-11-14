@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_011t","dbfId":61981,"name":"심판의 성서","type":"WEAPON","cardClass":"PALADIN","rarity":"COMMON","collectible":false,"cost":7,"text":"<b>타락함</b>\n<b>생명력 흡수</b>","attack":5,"health":0,"durability":3,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-281.tif:c9a94d8074d0436fb8e33d61ab9ac787","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":1546,"name":"게임 태그 1546","value":1},{"id":1551,"name":"타락한 카드","value":1}],"races":[],"race":"","classes":[],"art":"art/YOP_011t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-281.tif:c9a94d8074d0436fb8e33d61ab9ac787","goldenMaterial":"YOP_011t_PremiumCard.mat:65e76e8b5b4867741a84b32e162755be","goldenAnimation":"YOP_011t_PremiumCard.asset:5efe62c39d03a6943ab012791276fe10"}}
+{
+  "2021-01-22": {
+    "id": "YOP_011t",
+    "dbfId": 61981,
+    "name": "심판의 성서",
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 7,
+    "text": "<b>타락함</b><br></br><b>생명력 흡수</b>",
+    "attack": 5,
+    "health": 0,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-281.tif:c9a94d8074d0436fb8e33d61ab9ac787",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1546,
+        "name": "게임 태그 1546",
+        "value": 1
+      },
+      {
+        "id": 1551,
+        "name": "타락한 카드",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/YOP_011t.png"
+  }
+}

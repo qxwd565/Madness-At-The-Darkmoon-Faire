@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_004t5","dbfId":62087,"name":"포식의 굶주림","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"다른 모든 하수인을 처치합니다. 그 하수인들의 공격력과 생명력을 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-188.tif:646a8252c7b9441e82daebd2c0f54a98","set":"DARKMOON_FAIRE","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_004t5.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-188.tif:646a8252c7b9441e82daebd2c0f54a98","goldenMaterial":"DMF_004t5_PremiumCard.mat:82335aaf2ef83334fa71a1c2e55fe23e","goldenAnimation":"DMF_004t5_PremiumCard.asset:e41637f8259531e4685d75b280369f87"}}
+{
+  "2020-11-18": {
+    "id": "DMF_004t5",
+    "dbfId": 62087,
+    "name": "포식의 굶주림",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "다른 모든 하수인을 처치합니다. 그 하수인들의 공격력과 생명력을 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-188.tif:646a8252c7b9441e82daebd2c0f54a98",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_004t5.png"
+  }
+}

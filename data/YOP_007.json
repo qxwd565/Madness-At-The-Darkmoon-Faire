@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"YOP_007","dbfId":61945,"name":"암흑 심문관 자네쉬","type":"MINION","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 내 손과 덱에 있는 모든 <b>타락</b>과 <b>타락한</b> 카드의 비용이 (2) 감소합니다.","attack":3,"health":5,"durability":0,"armor":0,"flavor":"공포란 정신을 지배하는 것이자, 제 땅벌레의 이름이기도 합니다.","spellSchool":"","portrait":"HS21-276.tif:b3e1751801f44696bd0706421c927d8c","set":"DARKMOON_FAIRE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1524,"name":"타락","value":1},{"id":1551,"name":"타락한 카드","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/YOP_007.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-276.tif:b3e1751801f44696bd0706421c927d8c","goldenMaterial":"YOP_007_PremiumCard.mat:d9970643b97d97c429b2653a442ddf34","goldenAnimation":"YOP_007_PremiumCard.asset:2d2b106eec2bd0d4ca3ebea59870a0d9"}}
+{
+  "2021-01-22": {
+    "id": "YOP_007",
+    "dbfId": 61945,
+    "name": "암흑 심문관 자네쉬",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 내 손과 덱에 있는 모든 <b>타락</b>과 <b>타락한</b> 카드의 비용이 (2) 감소합니다.",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "공포란 정신을 지배하는 것이자, 제 땅벌레의 이름이기도 합니다.",
+    "spellSchool": "",
+    "portrait": "HS21-276.tif:b3e1751801f44696bd0706421c927d8c",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1551,
+        "name": "타락한 카드",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/YOP_007.png"
+  }
+}

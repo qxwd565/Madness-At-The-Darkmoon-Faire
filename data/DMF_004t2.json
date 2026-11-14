@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DMF_004t2","dbfId":62083,"name":"운명의 손","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"내 손을 무작위 주문으로 가득 채웁니다. 이번 턴에 그 주문들의 비용이 (0)이 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS21-185.tif:027a0a814d4d4a97bb8467161e921a09","set":"DARKMOON_FAIRE","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/DMF_004t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS21-185.tif:027a0a814d4d4a97bb8467161e921a09","goldenMaterial":"DMF_004t2_PremiumCard.mat:c27a986056dd20047bd9ad9a0d8c2b6e","goldenAnimation":"DMF_004t2_PremiumCard.asset:ccb54fc88b2b13e4fa813b836fb1b7a3"}}
+{
+  "2020-11-18": {
+    "id": "DMF_004t2",
+    "dbfId": 62083,
+    "name": "운명의 손",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "내 손을 무작위 주문으로 가득 채웁니다. 이번 턴에 그 주문들의 비용이 (0)이 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS21-185.tif:027a0a814d4d4a97bb8467161e921a09",
+    "set": "DARKMOON_FAIRE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DMF_004t2.png"
+  }
+}

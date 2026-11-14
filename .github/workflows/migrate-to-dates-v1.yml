@@ -30,11 +30,43 @@ jobs:
           python /tmp/convert-to-dates-v1.py --root . --strict
           python /tmp/convert-to-dates-v1.py --root . --strict --check
           git diff --check
+      - name: Verify Darkmoon first-playable dates including early Silas choices
+        run: |
+          python - <<'PYRELEASE'
+          import json
+          from pathlib import Path
+          catalog=Path("cards.json")
+          doc=json.loads(catalog.read_text(encoding="utf-8"))
+          if len(doc.get("cards",[]))!=234: raise SystemExit("Card count changed")
+          early={"DMF_074","DMF_074a","DMF_074b"}
+          for card in doc["cards"]:
+              path=Path("data")/(card["id"]+".json")
+              original=path.read_text(encoding="utf-8")
+              records=json.loads(original)
+              dates=sorted(k for k in records if len(k)==10 and k[4]=="-" and k[7]=="-")
+              if not dates: raise SystemExit("Missing dated card "+card["id"])
+              first=records[dates[0]]
+              if first.get("id")!=card["id"] or first.get("dbfId")!=card["dbfId"]: raise SystemExit("ID/DBF mismatch "+card["id"])
+              expected=("2020-10-23" if card["id"] in early else
+                        "2021-01-22" if card["id"].startswith("YOP_") else
+                        "2020-11-18" if card["id"].startswith("DMF_") else None)
+              if card["id"] in {"DMF_074a","DMF_074b"} and dates[0]=="2020-11-18":
+                  if "2020-10-23" in records: raise SystemExit("Early date already exists "+card["id"])
+                  fixed=original.replace('"2020-11-18":','"2020-10-23":',1)
+                  if fixed==original: raise SystemExit("Could not correct choice date "+card["id"])
+                  path.write_text(fixed,encoding="utf-8")
+                  dates[0]="2020-10-23"
+              if dates[0]!=expected: raise SystemExit("Unexpected release day "+card["id"]+" "+dates[0]+" expected "+str(expected))
+              if card.get("releasedAt") not in (None,dates[0]): raise SystemExit("Catalog conflict "+card["id"])
+              card["releasedAt"]=dates[0]
+              card["releaseStatus"]="verified"
+          catalog.write_text(json.dumps(doc,ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
+          PYRELEASE
       - name: Commit dated card JSON only
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -u -- data/
+          git add -u -- data/ cards.json
           if ! git diff --cached --quiet; then
             git commit -m 'Convert Madness-At-The-Darkmoon-Faire card history to dates-v1 [skip ci]'
             git push origin HEAD:main
